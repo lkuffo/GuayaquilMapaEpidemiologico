@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e0db8b6-c5b2-4950-b016-5329fe3317d9" name="Default" comment="" />
+    <list default="true" id="4e0db8b6-c5b2-4950-b016-5329fe3317d9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/DATA/rawData/cie10/cie_agrupaciones.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/DATA/rawData/cie10/cie_capitulos.csv" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +16,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DataRetriever.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataRetriever.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GyeHealthMap/DataRetriever.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="105">
+              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="223">
+                <caret line="38" column="114" lean-forward="true" selection-start-line="38" selection-start-column="114" selection-end-line="38" selection-end-column="114" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neighbours_mapping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/neighbours_mapping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1427">
+              <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapear_calles.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/mapear_calles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2494">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -35,6 +75,7 @@
       <find>density</find>
       <find>geometry</find>
       <find>data</find>
+      <find>buscar_sector</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -45,6 +86,7 @@
       <list>
         <option value="$PROJECT_DIR$/GyeHealthMap/DataRetriever.py" />
         <option value="$PROJECT_DIR$/DATA/anonimizedData/neighboursMapping.csv" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -103,12 +145,44 @@
             <path>
               <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
               <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
-              <item name="GyeHealthMap" type="462c0819:PsiDirectoryNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
+              <item name="anonimizedData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
+              <item name="DATA" type="462c0819:PsiDirectoryNode" />
+              <item name="geoData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
               <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
               <item name="TestingScripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
+              <item name="TestingScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
+              <item name="TestingScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="geolocation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GuayaquilMapaEpidemiologico" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GuayaquilMapaEpidemiologico" type="462c0819:PsiDirectoryNode" />
+              <item name="TestingScripts" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="maps" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,8 +203,8 @@
       <recent name="C:\Users\Leonardo\Desktop\PROJECTS\GuayaquilMapaEpidemiologico\DATA\geoData" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Leonardo\Desktop\PROJECTS\GuayaquilMapaEpidemiologico\DATA\anonimizedData" />
       <recent name="C:\Users\Leonardo\Desktop\PROJECTS\GuayaquilMapaEpidemiologico\DATA\rawData" />
+      <recent name="C:\Users\Leonardo\Desktop\PROJECTS\GuayaquilMapaEpidemiologico\DATA\anonimizedData" />
       <recent name="C:\Users\Leonardo\Desktop\PROJECTS\GuayaquilMapaEpidemiologico\DATA\geoData" />
     </key>
   </component>
@@ -371,34 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/maps/points_mapping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="100" column="13" lean-forward="false" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
-          <folding>
-            <element signature="e#3890#6336#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/neighbours_mapping.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#92#111#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/mapear_calles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DATA/anonimizedData/neighboursMapping.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -423,24 +469,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
+    <entry file="file://$PROJECT_DIR$/DATA/rawData/cie10/cie_capitulos.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/maps/bokeh_choropleths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/maps/points_mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="100" column="13" lean-forward="false" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+          <folding>
+            <element signature="e#3890#6336#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GyeHealthMap/DataRetriever.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="105">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/mapear_calles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2494">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestingScripts/scripts/geolocation/neighbours_mapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1427">
+          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="223">
+            <caret line="38" column="114" lean-forward="true" selection-start-line="38" selection-start-column="114" selection-end-line="38" selection-end-column="114" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
