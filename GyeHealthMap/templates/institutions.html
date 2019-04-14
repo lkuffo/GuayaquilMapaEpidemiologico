@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+
+    {% include "header.html" %}
+
+    <body class="hm-index-body text-center">
+
+    <div class="cover-container d-flex h-100 mx-auto flex-column">
+
+        {% include "navbar.html" %}
+
+        <div class="hm-container">
+
+            <main role="main" class="inner cover">
+                <h1 class="hm-institutions-title">Instituciones Disponibles</h1>
+
+                <div class="hm-institutions-container">
+
+                    {% for institution in institutions %}
+
+                        <div id="hm-id-{{ institution["id"] }}" class="hm-institution-box animated fadeInUpItem">
+                        <div id="colours">
+                            <div id="stage1"></div>
+                            <div id="stage2"></div>
+                            <div id="stage3"></div>
+                            <div id="stage4"></div>
+                            <div id="stage5"></div>
+                            <div id="stage6"></div>
+                            <div id="stage7"></div>
+                            <div id="stage8"></div>
+                            <div id="stage9"></div>
+                        </div>
+                             <div class="hm-institution-container">
+                                <div class="hm-institution-content">
+                                    <div class="hm-institution-image" style="background-image: url('/static/images/{{ institution["id"] }}.png');">
+
+                                    </div>
+                                    <div class="hm-institution-info">
+                                        <h3 class="hm-institution-title">{{ institution["name"] }}</h3>
+                                        <h6 class="hm-institucion-detail"> <strong>Tipo: </strong> {{ institution["tipo"] }} </h6>
+                                        <h6 class="hm-institucion-detail"> <strong>Numero de Pacientes: </strong> {{ institution["pacientes"] }} </h6>
+                                        <h6 class="hm-institucion-detail">
+                                            <strong>
+                                                <a href="{{ institution["link"] }}">Mas Informacion</a>
+                                            </strong>
+                                        </h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    {% endfor %}
+
+
+                </div>
+            </main>
+
+            <footer class="mastfoot mt-auto">
+                <div class="inner">
+                    <p></p>
+                </div>
+            </footer>
+        </div>
+
+    </div>
+
+    {% include "footer.html" %}
+
+    </body>
+</html>

@@ -1,0 +1,1164 @@
+ID,Parroquia,ShapeName,SectorAdicional,SectorGeneral,Sector
+1,AYACUCHO,AYACUCHO,,,Ayacucho
+2,,,,,Barrio Ciudad Nueva
+3,AYACUCHO,AYACUCHO,,,Barrio del Astillero
+4,URDANETA,URDANETA,,,Barrio Garay (Calle 9 de Octubre lado oeste)
+5,,,,,Barrio Jockey
+6,TARQUI,TARQUI,,,Barrio la Concordia
+7,,,,,Barrio La Sabana
+8,,,,,Barrio Las 5 Esquinas
+9,TARQUI,MONTE SINAI,,,Barrio Las Peñas
+10,TARQUI,TARQUI,,,Barrio Orellana
+11,,,,,Barrio Q. Josefa
+12,,,,,Barrio Q. Pareja
+13,,,,,Barrio Q. Piedad
+14,TARQUI,BOLIVARIANA,,,Bolívar
+15,TARQUI,BOLIVARIANA,,,Cdla. Bolivariana
+16,,,,,Ciudad Nueva
+17,GARCIA MORENO,GARCIA MORENO,,,Coop. Progresista
+18,,,,,Coop. Rumiñahui
+19,,,,,Coop. Samuel Gómez
+20,GARCIA MORENO,GARCIA MORENO,,,Cristo del Consuelo
+21,,,,,El Conchero
+22,XIMENA,XIMENA,,,Febres Cordero
+23,XIMENA,XIMENA,,,García Moreno
+24,LETAMENDI,LETAMENDI,,,Letamendi
+25,OLMEDO,OLMEDO,,,Olmedo
+26,FEBRES CORDERO,FEBRES CORDERO,,,Puerto Lisa
+27,ROCAFUERTE,ROCAFUERTE,,,Rocafuerte
+28,SUCRE,SUCRE,,,Sucre
+29,TARQUI,TARQUI,,,Tarqui
+30,URDANETA,URDANETA,,,Urdaneta
+31,XIMENA,XIMENA,,,Ximena
+32,TARQUI,LAS PEÑAS,,,Viviendas del Cerro del Carmen
+33,TARQUI,PUERTO SANTA ANA,,,Viviendas del Cerro Santa Ana
+34,XIMENA,XIMENA,,,Barrio Centenario
+35,XIMENA,XIMENA,,,Barrio Cuba
+36,XIMENA,XIMENA,,,Barrio de las Americas - del Seguro
+37,DURAN,DURAN,,,Bloque Primavera
+38,XIMENA,XIMENA,,,Cdal. La Saiba
+39,TARQUI,LOS CEIBOS,,,Cdal. Los Olivos
+40,XIMENA,XIMENA,,,Cdla Caraguay
+41,TARQUI,ORQUIDEAS,,,Cdla del Maestro
+42,XIMENA,XIMENA,,,Cdla Jambeli
+43,TARQUI,URDESA,,,Cdla Los Cipreses
+44,XIMENA ,XIMENA,,,Cdla. 9 de Octubre
+45,XIMENA,XIMENA,,,Cdla. Amazonas I
+46,XIMENA,XIMENA,,,Cdla. Amazonas II
+47,XIMENA,XIMENA,,,Cdla. Coviem
+48,XIMENA,XIMENA,,,Cdla. del Periodista
+49,XIMENA,XIMENA,,,Cdla. Floresta I-Coop Los Laureles
+50,XIMENA,XIMENA,,,Cdla. Floresta II-Coop. Divino niño
+51,XIMENA,XIMENA,,,Cdla. Floresta II-Coop. Los Vergeles
+52,XIMENA,XIMENA,,,Cdla. Floresta II-Coop. Nueva idela
+53,XIMENA,XIMENA,,,Cdla. Floresta II-Coop. Piso y Techo
+54,XIMENA,XIMENA,,,Cdla. Floresta III-Guasmo Central
+55,XIMENA,XIMENA,,,Cdla. Fragata
+56,XIMENA,XIMENA,,,Cdla. Guangala
+57,XIMENA,XIMENA,,,Cdla. Guayasur
+58,URDANETA,URDANETA,,,Cdla. Huancavilca
+59,XIMENA,XIMENA,,,Cdla. Jambelí
+60,LETAMENDI,LETAMENDI,,,Cdla. La Chala
+61,TARQUI,FAE,,,Cdla. La Ronda
+62,XIMENA,XIMENA,,,Cdla. Las Acacias
+63,XIMENA,XIMENA,,,Cdla. Las Tejas
+64,DURAN,DURAN,,,Cdla. Las Terrazas
+65,XIMENA,XIMENA,,,Cdla. Los Almendros
+66,GARCIA MORENO,GARCIA MORENO,,,Cdla. Los delfines
+67,XIMENA,XIMENA,,,Cdla. Los Esteros I
+68,XIMENA,XIMENA,,,Cdla. Los Esteros II
+69,XIMENA,XIMENA,,,Cdla. Los Tulipanes
+70,XIMENA,XIMENA,,,Cdla. Luis Morejón
+71,XIMENA,XIMENA,,,Cdla. Morán Valverde
+72,XIMENA,XIMENA,,,Cdla. Naval Sur 25 de Julio
+73,XIMENA,XIMENA,,,Cdla. Pradera I
+74,XIMENA,XIMENA,,,Cdla. Pradera II
+75,XIMENA,XIMENA,,,Cdla. Pradera III
+76,XIMENA,XIMENA,,,Cdla. Urbasur
+77,XIMENA,XIMENA,,,Cdla. Valdivia
+78,XIMENA,XIMENA,,,Cdla. Villamil
+79,XIMENA,XIMENA,,,Ciudadela del IESS
+80,,,,,Condm. Los Jardines
+81,OTROS,OTROS,,,Coop 17 de Septiembre
+82,XIMENA,XIMENA,,,Coop 26 de Abril-Guasmo Sur
+83,XIMENA,XIMENA,,,Coop 9 de Octubre-Guasmo Osete
+84,FEBRES CORDERO,FEBRES CORDERO,,,Coop Américo Vespucio II-Isla Trinitaria
+85,XIMENA,XIMENA,,,Coop Autoridad Portuaria
+86,XIMENA,XIMENA,,,Coop Carlos Castro II-Guasmo Central
+87,XIMENA,XIMENA,,,Coop centro Civico-Guasmo Norte
+88,FEBRES CORDERO,FEBRES CORDERO,,,Coop El Paraíso-Isla Trinitaria
+89,XIMENA,XIMENA,,,Coop Fertisa-Guasmo Sur
+90,XIMENA,XIMENA,,,Coop Guayaquil Independiente
+91,FEBRES CORDERO,FEBRES CORDERO,,,Coop Los Angeles II-Isla Trinitaria
+92,XIMENA,XIMENA,,,Coop Proletarios con tierra-Guasmo Sur
+93,XIMENA,XIMENA,,,Coop Rosa Aguilera-Guasmo Sur
+94,XIMENA,XIMENA,,,Coop.  Estela Maris-Guasmo Sur
+95,XIMENA,XIMENA,,,Coop. 1 de Agosto-Guasmo Central
+96,XIMENA,XIMENA,,,Coop. 1 de Mayo Independiente-Guasmo Norte
+97,OTROS,OTROS,,,Coop. 1 de Septiembre
+98,XIMENA,XIMENA,,,Coop. 10 de Agosto-Guasmo Norte
+99,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 11 de Septiembre-Isla Trinitaria
+100,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 12 de Mayo II-Isla Trinitaria
+101,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 12 de Mayo-Isla Trinitaria
+102,XIMENA,XIMENA,,,Coop. 12 de Septiembre-Guasmo Central
+103,XIMENA,XIMENA,,,Coop. 13 de Febrero
+104,,,,,Coop. 15 de Diciembre
+105,XIMENA,XIMENA,,,Coop. 15 de Septiembre-Guasmo central
+106,,,,,Coop. 16 de Mayo
+107,XIMENA,XIMENA,,,Coop. 18 de Agosto-Guasmo Sur
+108,XIMENA,XIMENA,,,Coop. 18 de Octubre-Guasmo Sur
+109,,,,,Coop. 18 de Septiembre
+110,XIMENA,XIMENA,,,Coop. 21 de Enero-Guasmo Norte
+111,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 22 de Abril-Isla Trinitaria
+112,XIMENA,XIMENA,,,Coop. 24 de Mayo-Guasmo Norte
+113,XIMENA,XIMENA,,,Coop. 24 de Mayo-Las Malvinas
+114,XIMENA,XIMENA,,,Coop. 25 de Enero-Guasmo Norte
+115,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 25 de Julio-Isla Trinitaria
+116,XIMENA,XIMENA,,,Coop. 27 de Junio
+117,XIMENA,XIMENA,,,Coop. 28 de Agosto
+118,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 28 de Mayo
+119,TARQUI,PROSPERINA,,,Coop. 29 de Abril
+120,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 3 de Mayo-Isla Trinitaria
+121,XIMENA,XIMENA,,,Coop. 3 de Noviembre
+122,TARQUI,JUAN MONTALVO,,,Coop. 4 de Marzo
+123,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 4 de Septiembre-Isla Trinitaria
+124,XIMENA,XIMENA,,,Coop. 5 de Agosto-Guasmo Norte
+125,XIMENA,XIMENA,,,Coop. 5 de Octubre-Guasmo Sur
+126,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 6 de Noviembre-Isla Trinitaria
+127,FEBRES CORDERO,FEBRES CORDERO,,,Coop. 7 de Octubre
+128,XIMENA,XIMENA,,,Coop. 7 Lagos-Guasmo Central
+129,XIMENA,XIMENA,,,Coop. 7 Laguitos-Guasmo Central
+130,XIMENA,XIMENA,,,Coop. 7 Septiembre-Guasmo central
+131,XIMENA,XIMENA,,,Coop. 8 de Agosto
+132,XIMENA,XIMENA,,,Coop. 8 de Marzo
+133,,,,,Coop. 8 de Septiembre
+134,XIMENA,XIMENA,,,Coop. 9 de Abril
+135,XIMENA,XIMENA,,,Coop. 9 de Agosto-Guasmo central
+136,XIMENA,XIMENA,,,Coop. 9 de Julio-Fertisa
+137,XIMENA,XIMENA,,,Coop. Abdalá Bucaram
+138,XIMENA,XIMENA,,,Coop. Abdalá de los Pobres
+139,XIMENA,XIMENA,,,Coop. Ahora le toca al Pueblo
+140,XIMENA,XIMENA,,,Coop. Alameda-Malvinas
+141,XIMENA,XIMENA,,,Coop. Amazonas-Guasmo Sur
+142,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Américo Vespucio I-Isla Trinitaria
+143,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Andres Quiñones I-Isla Trinitaria
+144,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Andres Quiñonez II-Isla Trinitaria
+145,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Ángel Duarte-Isla Trinitaria
+146,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Antartida-Isla Trinitaria
+147,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Antonio Neumane-Isla trinitaria
+148,LETAMENDI,LETAMENDI,,,Coop. Assad Bucaram I - Acacias
+149,LETAMENDI,LETAMENDI,,,Coop. Assad Bucaram II - Acacias
+150,XIMENA,XIMENA,,,Coop. Atahualpa-Guasmo Norte
+151,XIMENA,XIMENA,,,Coop. Bananeros Bloque A
+152,XIMENA,XIMENA,,,Coop. Barrio Chino-Guasmo Sur
+153,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Barrio Nigeria-Isla Trinitaria
+154,XIMENA,XIMENA,,,Coop. Batalla de Tarqui-Guasmo Sur
+155,XIMENA,XIMENA,,,Coop. Brisas del Estero
+156,XIMENA,XIMENA,,,Coop. Brisas del Guayas-Guasmo sur
+157,XIMENA,XIMENA,,,Coop. Brisas del Salado-Guasmo sur
+158,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Camino al Sol-Isla trinitaria
+159,XIMENA,XIMENA,,,Coop. Carlos Castro I-Guasmo Central
+160,XIMENA,XIMENA,,,Coop. Carlos Zevallos-Guasmo Norte
+161,XIMENA,XIMENA,,,Coop. Casitas del Guasmo (Empresa Vopak)
+162,XIMENA,XIMENA,,,Coop. Casitas del Guasmo-Guasmo Norte
+163,XIMENA,XIMENA,,,Coop. Causa Proletaria-Guasmo Sur
+164,XIMENA,XIMENA,,,Coop. Centinela del Guasmo-Guasmo central
+165,XIMENA,XIMENA,,,Coop. Cesar A. Sandino-Guasmo Sur
+166,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Che Guevara-Isla Trinitaria
+167,XIMENA,XIMENA,,,Coop. Ciudad de Venecia
+168,XIMENA,XIMENA,,,Coop. Comand. Duro-Malvinas
+169,,,,,Coop. Comité 4 de Julio
+170,XIMENA,XIMENA,,,Coop. Comité de base-Guasmo Central
+171,XIMENA,XIMENA,,,Coop. Cooperativa Pueblo Unido-Guasmo central
+172,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Costa Marfil-Isla Trinitaria
+173,XIMENA,XIMENA,,,Coop. Cristal-Guasmo Sur
+174,XIMENA,XIMENA,,,Coop. Cristina Ponguillo-Guasmo Oeste
+175,,,,,Coop. de Vivienda de la Armada
+176,XIMENA,XIMENA,,,Coop. Derecho de los Pobres-Guasmo Sur
+177,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Desarrollo Comunal
+178,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Desarrollo Comunal II
+179,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Diamante-Isla Trinitaria
+180,XIMENA,XIMENA,,,Coop. Dignidad Popular-Malvinas
+181,XIMENA,XIMENA,,,Coop. Dios para todos-Guasmo Norte
+182,XIMENA,XIMENA,,,Coop. Disston Preciado-Guasmo sur
+183,XIMENA,XIMENA,,,Coop. El Condor-Guasmo Sur
+184,FEBRES CORDERO,FEBRES CORDERO,,,Coop. El Diamante-Isla Trinitaria
+185,FEBRES CORDERO,FEBRES CORDERO,,,Coop. El Edén -Isla Trinitaria
+186,DURAN,DURAN,,,Coop. El Pantanal
+187,XIMENA,XIMENA,,,Coop. Eloy Alfaro - Acacias III
+188,XIMENA,XIMENA,,,Coop. Eloy Alfaro-Guasmo sur
+189,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Enrique Gordillo-Isla Trinitaria
+190,XIMENA,XIMENA,,,Coop. Esmeraldas Chiquita-Isla Trinitaria
+191,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Esmeraldas Libre-Isla trinitaria
+192,XIMENA,XIMENA,,,Coop. Esmeraldas Vieja
+193,XIMENA,XIMENA,,,Coop. Esteros Populares-Coop. Jacobo Bucaran
+194,XIMENA,XIMENA,,,Coop. Esteros Populares-Coop. Los Lirios
+195,XIMENA,XIMENA,,,Coop. Esteros Populares-Coorp. La Fragata
+196,TARQUI,MAPASINGUE,,,Coop. Eugenio Espejo
+197,XIMENA,XIMENA,,,Coop. Flor del Guasmo
+198,XIMENA,XIMENA,,,Coop. Florida I-Guasmo Sur
+199,XIMENA,XIMENA,,,Coop. Florida II
+200,XIMENA,XIMENA,,,Coop. Francisca Guillen
+201,XIMENA,XIMENA,,,Coop. Fundación de Guayaquil-Guasmo central
+202,XIMENA,XIMENA,,,Coop. García Moreno-Malvinas
+203,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Gran Chaparral-Isla Trinitaria
+204,XIMENA,XIMENA,,,Coop. Guasmo libre
+205,XIMENA,XIMENA,,,Coop. Guasmo Norte
+206,XIMENA,XIMENA,,,Coop. Guasmo Sur
+207,XIMENA,XIMENA,,,Coop. Guayas y Quil II-Guasmo Sur
+208,XIMENA,XIMENA,,,Coop. Guevara Moreno I y II-Fertisa
+209,XIMENA,XIMENA,,,Coop. Hogar de los Pobres
+210,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Independencia II-Isla Trinitaria
+211,XIMENA,XIMENA,,,Coop. Independiente-Guasmo Norte
+212,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Isla del Valle-Isla Trinitaria
+213,XIMENA,XIMENA,,,Coop. Islas Galápagos-Guasmo Norte
+214,XIMENA,XIMENA,,,Coop. Jacobito Bucarám-Guasmo Sur
+215,XIMENA,XIMENA,,,Coop. Jacobo Bucaram
+216,XIMENA,XIMENA,,,Coop. Jaime Galarza-Guasmo Central
+217,XIMENA,XIMENA,,,Coop. Jaime Nebot-Fertisa
+218,XIMENA,XIMENA,,,Coop. Jaime Roldós -Malvinas
+219,XIMENA,XIMENA,,,Coop. Jaime Roldos-Guasmo Oeste
+220,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Jaime Toral-Isla Trinitaria
+221,XIMENA,XIMENA,,,Coop. Juan Péndola
+222,XIMENA,XIMENA,,,Coop. Juan X. Marcos-Guasmo Norte
+223,XIMENA,XIMENA,,,Coop. Julio Potes-Guasmo sur
+224,TARQUI,MAPASINGUE,,,Coop. Justicia Social
+225,XIMENA,XIMENA,,,Coop. Justicia y Libertad-Guasmo central
+226,XIMENA,XIMENA,,,Coop. La Fragata Populares
+227,FEBRES CORDERO,FEBRES CORDERO,,,Coop. La Fuerza de los Pobres-Isla Trinitaria
+228,XIMENA,XIMENA,,,Coop. La Paz-Guasmo Sur
+229,XIMENA,XIMENA,,,Coop. Las Brisas
+230,XIEMNA,XIMENA,,,Coop. Las Malvinas
+231,XIMENA,XIMENA,,,Coop. Las Mercedes
+232,XIMENA,XIMENA,,,Coop. Las Palmas-Guasmo Sur
+233,XIMENA,XIMENA,,,Coop. Libertad I
+234,XIMENA,XIMENA,,,Coop. Libertad II
+235,XIMENA,XIMENA,,,Coop. Libertad y Conciencia
+236,XIMENA,XIMENA,,,Coop. Lorenzo Tous-Guasmo sur
+237,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Los 5 Magnificos-Isla Trinitaria
+238,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Los Angeles
+239,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Los Ángeles-Isla Trinitaria
+240,XIMENA,XIMENA,,,Coop. Los Cidros-Guasmo central
+241,XIMENA,XIMENA,,,Coop. Los Jardines-Guasmo sur
+242,XIMENA,XIMENA,,,Coop. Los Jazmines-Guasmo Norte
+243,XIMENA,XIMENA,,,Coop. Los Mangles-Guasmo sur
+244,XIMENA,XIMENA,,,Coop. Los Palestinos
+245,XIMENA,XIMENA,,,Coop. Los ultimos sereamos los primeros-Guasmo central
+246,XIMENA,XIMENA,,,Coop. Los Vergeles-Guasmo Sur
+247,XIMENA,XIMENA,,,Coop. Lucha Obrera-Guasmo
+248,XIMENA,XIMENA,,,Coop. Lucha Popular-Guasmo Central
+249,XIMENA,XIMENA,,,Coop. Luchadores del Guasmo
+250,XIMENA,XIMENA,,,Coop. Luchar es Vencer-Guasmo Norte
+251,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Luchar y Vencer-Isla Trinitaria
+252,XIMENA,XIMENA,,,Coop. Luis Chiriboga Parra-Guasmo Sur
+253,XIMENA,XIMENA,,,Coop. Luis Vargas Torres
+254,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Luz de América-Isla Trinitaria
+255,XIMENA,XIMENA,,,Coop. Luz del Guayas-Guasmo Norte
+256,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Madrigal-Isla Trinitaria
+257,XIMENA,XIMENA,,,Coop. Mariuxi Febres Cordero-Guasmo Sur
+258,XIMENA,XIMENA,,,Coop. Martha Bucaram-Guasmo Sur
+259,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Melida Toral-Isla Trinitaria
+260,XIMENA,XIMENA,,,Coop. Melida Zalamea-Malvinas
+261,XIMENA,XIMENA,,,Coop. Miami Beach
+262,XIMENA,XIMENA,,,Coop. Miramar-Guasmo Sur
+263,XIMENA,XIMENA,,,Coop. Molina de Frank-Guasmo Sur
+264,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Mons. Leonidas Proaño-Isla Trinitaria
+265,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Naciones Unidas-Isla Trinitaria
+266,XIMENA,XIMENA,,,Coop. Necesidad de un Techo-Guasmo central
+267,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nelson Mandela III-Isla Trinitaria
+268,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nelson Mandela I-Isla Trinitaria
+269,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nueva Ciudad-Isla Trinitaria
+270,XIMENA,XIMENA,,,Coop. Nueva Granada-Guasmo Norte
+271,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nueva Guayaquil-Isla Trinitaria
+272,XIMENA,XIMENA,,,Coop. Nueva Ideal-Guasmo central
+273,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nueva Patria-Isla Trinitaria
+274,XIMENA,XIMENA,,,Coop. Nueva Venecia-Guasmo Central
+275,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nuevo Ecuador-Isla Trinitaria
+276,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Nuevo Rumbo-Isla Trinitaria
+277,XIMENA,XIMENA,,,Coop. Nuevos Horizontes-Guasmo Norte
+278,XIMENA,XIMENA,,,Coop. Pablo Neruda-Guasmo Sur
+279,XIMENA,XIMENA,,,Coop. Paco Oñate II-Fertisa
+280,XIMENA,XIMENA,,,Coop. Paquisha-Guasmo central
+281,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Patria Nueva-Isla Trinitaria
+282,XIMENA,XIMENA,,,Coop. Patria y Libertad-Guasmo Norte
+283,XIMENA,XIMENA,,,Coop. Pedregal - esclusas-Guasmo Cenral
+284,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Pedro Fronda-Isla Trinitaria
+285,XIMENA,XIMENA,,,Coop. Perla del Sur-Guasmo central
+286,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Plan Techo-Isla Trinitaria
+287,XIMENA,XIMENA,,,Coop. Pobladores sin Tierra-Guasmo Sur
+288,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Polo Sur-Isla Trinitaria
+289,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Popeye-Isla Trinitaria
+290,XIMENA,XIMENA,,,Coop. Proletarios sin Tierra-Guasmo Sur
+291,XIMENA,XIMENA,,,Coop. Puerto Lizita-Guasmo Sur
+292,XIMENA,XIMENA,,,Coop. Puntilla del Centro Miramar-Guasmo Sur
+293,XIMENA,XIMENA,,,Coop. Reina del Quinche 1-Guasmo Sur
+294,XIMENA,XIMENA,,,Coop. Reina del Quinche-Guasmo Sur
+295,XIMENA,XIMENA,,,Coop. Riberas del Guayas-Guasmo Norte
+296,XIMENA,XIMENA,,,Coop. Río Guayas-Guasmo Norte
+297,XIMENA,XIMENA,,,Coop. Riop Guayas-Guasmo Norte
+298,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Rumiñahui II-Isla Trinitaria
+299,FEBRES CORDERO,FEBRES CORDERO,,,Coop. San Cristóbal-Isla Trinitaria
+300,XIMENA,XIMENA,,,Coop. San Felipo-Guasmo Sur
+301,XIMENA,XIMENA,,,Coop. Santa Martha I-Guasmo Sur
+302,XIMENA,XIMENA,,,Coop. Santa Martha II-Guasmo Sur
+303,XIMENA,XIMENA,,,Coop. Santa Monica-Guasmo Sur
+304,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Santiago de Guayaquil I y II-Isla Trinitaria
+305,XIMENA,XIMENA,,,Coop. Santiago Roldós-Guasmo Oeste
+306,XIMENA,XIMENA,,,Coop. Segundo Ramos-Guasmo Sur
+307,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Siempre en La Lucha-Isla Trinitaria
+308,XIMENA,XIMENA,,,Coop. Standart Fruit-Guasmo Sur
+309,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Techo Para Todos-Isla Trinitaria
+310,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Todos Unidos al Fin Venceremos-Isla Trinitaria
+311,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Un Techo Para los Pobres-Isla Trinitaria
+312,XIMENA,XIMENA,,,Coop. Unidos para Vencer-Guasmo Central
+313,XIMENA,XIMENA,,,Coop. Unión Cívica-Guasmo Norte
+314,XIMENA,XIMENA,,,Coop. Union de Bananeros Bloque 2-Guasmo Central
+315,XIMENA,XIMENA,,,Coop. Union de Bananeros Bloque 3-Guasmo Central
+316,XIMENA,XIMENA,,,Coop. Union de Bananeros Bloque 4-Guasmo Central
+317,XIMENA,XIMENA,,,Coop. Union de Bananeros Bloque 5-Guasmo Central
+318,XIMENA,XIMENA,,,Coop. Union de Bananeros Bloque 6-Guasmo Central
+319,XIMENA,XIMENA,,,Coop. Unión y Progreso-Guasmo Sur
+320,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Valladolid-Isla Trinitaria
+321,XIMENA,XIMENA,,,Coop. Valle Independiente-Guasmo sur
+322,XIMENA,XIMENA,,,Coop. Velasco Ibarra-Guasmo Sur
+323,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Vencer o Morir II-Isla Trinitaria
+324,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Viernes Santo-Isla Trinitaria
+325,XIMENA,XIMENA,,,Coop. Virgen de Monserrate-Guasmo Central
+326,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Zalatiel de Toral-Isla Trinitaria
+327,XIMENA,XIMENA,,,Coop.1 de Marzo-Guasmo Norte
+328,XIMENA,XIMENA,,,Coop.25 de Septiembre-Guasmo Sur
+329,FEBRES CORDERO,FEBRES CORDERO,,,Prcoop. 12 de Octubre
+330,XIMENA,XIMENA,,,Prcoop. Santiaguito Roldós I
+331,XIMENA,XIMENA,,,Prcoop. Santiaguito Roldós II
+332,XIMENA,XIMENA,,,Urb. Centinela
+333,FEBRES CORDERO,FEBRES CORDERO,,,Urb. Los Claveles
+334,XIMENA,XIMENA,,,Urb. Sopeña
+335,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Cisne 2
+336,OTROS,OTROS,,,Barrio 2 de Noviembre
+337,TARQUI,FLORIDA,,,Barrio Bello Horizonte (Coop. Francisco Jácome)
+338,TARQUI,LAS PEÑAS,,,Barrio Las Peñas
+339,OTROS,OTROS,,,Barrio Los Tamarindos
+340,TARQUI,LAS PEÑAS,,,Barrio Quisquís
+341,TARQUI,PROSPERINA,,,Campus Prosperina (Espol)
+342,TARQUI,ALAMOS,,,Cdla Alamos Norte
+343,TARQUI,SAN EDUARDO,,,Cdla Carlos Perez
+344,TARQUI,LA FLORIDA,,,Cdla Colinas de la Florida
+345,TARQUI,PROSPERINA,,,Cdla Colinas del Hipodromo
+346,TARQUI,HUANCAVILCA NORTE,,,Cdla Estrella de Mar
+347,TARQUI,GARZOTA,,,Cdla la Garzota I etapa
+348,TARQUI,GARZOTA,,,Cdla la Garzota II etapa
+349,TARQUI,GARZOTA,,,Cdla la Garzota III etapa
+350,TARQUI,MIRAFLORES,,,Cdla Miraflores
+351,TARQUI,LOS CEIBOS,,,Cdla Puerta de los Ceibos
+352,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte
+353,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   10ma etapa
+354,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   2da
+355,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   3ra
+356,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   4ta
+357,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   6ta
+358,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   7ma
+359,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   8va
+360,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte   9na
+361,TARQUI,KENNEDY,,,Cdla.  Kennedy Norte  5ta
+362,TARQUI,ADACE,,,Cdla. Adace Cdla. Luis Vernaza
+363,TARQUI,JUAN MONTALVO,,,Cdla. ADESDAC
+364,TARQUI,MUCHO LOTE II,,,Cdla. Alameda del Rio
+365,TARQUI,ALBORADA,,,Cdla. Alborada 1° etapa
+366,TARQUI,ALBORADA,,,Cdla. Alborada 10° etapa
+367,TARQUI,ALBORADA,,,Cdla. Alborada 11° etapa
+368,TARQUI,ALBORADA,,,Cdla. Alborada 12° etapa
+369,TARQUI,ALBORADA,,,Cdla. Alborada 13° etapa
+370,TARQUI,ALBORADA,,,Cdla. Alborada 2° etapa
+371,TARQUI,ALBORADA,,,Cdla. Alborada 3° etapa
+372,TARQUI,ALBORADA,,,Cdla. Alborada 4° etapa
+373,TARQUI,ALBORADA,,,Cdla. Alborada 5° etapa
+374,TARQUI,ALBORADA,,,Cdla. Alborada 6° etapa
+375,TARQUI,ALBORADA,,,Cdla. Alborada 7° etapa
+376,TARQUI,ALBORADA,,,Cdla. Alborada 8° etapa
+377,TARQUI,ALBORADA,,,Cdla. Alborada 9° etapa
+378,TARQUI,BELLAVISTA,,,Cdla. Bella Vista
+379,BOLIVARIANA,BOLIVARIANA,,,Cdla. Bolivariana
+380,TARQUI,MONTEBELLO,,,Cdla. Caracol
+381,TARQUI,LAS CUMBRES,,,Cdla. Ceibos Alto
+382,TARQUI,LOS CEIBOS,,,Cdla. Ceibos Norte
+383,TARQUI,SAN EDUARDO,,,Cdla. Celoplast
+384,TARQUI,INMACONSA,,,Cdla. Colinas al Sol
+385,TARQUI,LOS CEIBOS,,,Cdla. Colinas de los Ceibos (Zona A)
+386,TARQUI,EL PARAISO,,,Cdla. El Paraiso
+387,TARQUI,FERROVIARIA,,,Cdla. Ferroviaria
+388,TARQUI,FERROVIARIA,,,Cdla. Ferroviaria Urb. Santa Maria de las Lomas
+389,TARQUI,JARDINES DEL SALADO,,,Cdla. Girasoles
+390,TARQUI,GUAYACANES,,,Cdla. Guayacanes
+391,TARQUI,MAPASINGUE,,,Cdla. J. Tanca Marengo
+392,TARQUI,ATARAZANA,,,Cdla. La Atarazana
+393,TARQUI,ATARAZANA,,,Cdla. La FAE
+394,TARQUI,ATARAZANA,,,Cdla. La Herradura
+395,TARQUI,INMACONSA,,,Cdla. La Roca
+396,TARQUI,LAS CUMBRES,,,Cdla. Las Cumbres
+397,TARQUI,ORQUIDEAS,,,Cdla. Las Orquideas
+398,TARQUI,URDESA,,,Cdla. Lomas de Urdesa
+399,TARQUI,LOS CEIBOS,,,Cdla. Los Cedros
+400,TARQUI,LOS CEIBOS,,,Cdla. Los Ceibos
+401,TARQUI,VERGELES,,,Cdla. Los Geranios
+402,DURAN,DURAN,,,Cdla. Los Helechos
+403,TARQUI,LOS CEIBOS,,,Cdla. Los Olivos
+404,TARQUI,LOS CEIBOS,,,Cdla. Los Parques
+405,XIMENA,XIMENA,,,Cdla. Martha de Roldos
+406,TARQUI,KENNEDY,,,Cdla. Modelo
+407,TARQUI,MONTEBELLO,,,Cdla. Monte Bello
+408,TARQUI,PROSPERINA,,,Cdla. Murallas del Norte
+409,TARQUI,KENNEDY,,,Cdla. Nueva Kennedy
+410,TARQUI,MUCHO LOTE II,,,Cdla. Paraiso del Rio
+411,TARQUI,URDESA,,,Cdla. Portón de Las Lomas
+412,TARQUI,JUAN MONTALVO,,,Cdla. Puerta de Hierro
+413,TARQUI,URDESA,,,Cdla. Urdesa Central
+414,TARQUI,URDESA,,,Cdla. Urdesa Norte
+415,TARQUI,CIUDAD DEL RIO,,,Cdla. Veranda
+416,TARQUI,LUIS VERNAZA,,,Cdla. Vernaza Norte
+417,TARQUI,LAS PEÑAS,,,Cerro del Carmen
+418,TARQUI,LAS PEÑAS,,,Cerro Sta. Ana
+419,DAULE,DAULE,,,Ciudad Santiago
+420,TARQUI,ORQUIDEAS,,,Colinas del maestro
+421,TARQUI,GARZOTA,,,Conjunto Residencial El Manantial
+422,TARQUI,IETEL,,,Conjunto Residencial Villa Sol
+423,OTROS,OTROS,,,Coop Ignacio de Loyola
+424,TARQUI,JUAN MONTALVO,,,Coop Juan Montalvo
+425,TARQUI,JUAN MONTALVO,,,Coop Pajaro Azul
+426,TARQUI,VOLUNTAD DE DIOS,,,Coop Valle de la Flor
+427,XIMENA,XIMENA,,,Coop. 11 de Febrero
+428,XIMENA,XIMENA,,,Coop. 14 de Febrero
+429,XIMENA,XIMENA,,,Coop. 16 de Septiembre
+430,,,,,Coop. 21 de Noviembre
+431,TARQUI,MIRAFLORES,,,Coop. 24 de Mayo
+432,TARQUI,PROSPERINA,,,Coop. 29 de Abril
+433,TARQUI,JUAN MONTALVO,,,Coop. 3 de Diciembre
+434,TARQUI,PROSPERINA,,,Coop. 31 de Agosto
+435,XIMENA,XIMENA,,,Coop. 4 de Mayo
+436,TARQUI,PROSPERINA,,,Coop. 7 de Diciembre
+437,TARQUI,PROSPERINA,,,Coop. 9 de Enero
+438,,,,,Coop. Antonio Bermúdez
+439,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 1
+440,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 10
+441,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 2
+442,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 3
+443,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 4
+444,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 5
+445,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 6
+446,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 7
+447,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 8
+448,TARQUI,BASTION POPULAR,,,Coop. Bastion Popular Bloque 9
+449,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Batallon del Suburbio
+450,TARQUI,MAPASINGUE,,,Coop. Brisas de Mapasingue
+451,XIMENA,XIMENA,,,Coop. Buenos Aires
+452,TARQUI,BASTION POPULAR,,,Coop. Cerro Jordán
+453,TARQUI,SAN EDUARDO,,,Coop. Cerro san Eduardo
+454,TARQUI,JUAN MONTALVO,,,Coop. Ciudad de Dios
+455,TARQUI,NUEVA PROSPERINA,,,Coop. Colinas de la Florida
+456,TARQUI,MAPASINGUE,,,Coop. Colinas de Mapasingue
+457,TARQUI,PROSPERINA,,,Coop. Colinas del Hipódromo
+458,TARQUI,INMACONSA,,,Coop. Colinas del sol
+459,TARQUI,MAPASINGUE,,,Coop. Colinas del Valle
+460,XIMENA,XIMENA,,,Coop. de Vivienda Guayaquil
+461,TARQUI,JUAN MONTALVO,,,Coop. El Ceibol
+462,XIMENA,XIMENA,,,Coop. El Cóndor
+463,TARQUI,FORTIN,,,Coop. El Fortín Bloque  1
+464,TARQUI,FORTIN,,,Coop. El Fortín Bloque  10
+465,TARQUI,FORTIN,,,Coop. El Fortín Bloque  11
+466,TARQUI,FORTIN,,,Coop. El Fortín Bloque  2
+467,TARQUI,FORTIN,,,Coop. El Fortín Bloque  3
+468,TARQUI,FORTIN,,,Coop. El Fortín Bloque  4
+469,TARQUI,FORTIN,,,Coop. El Fortín Bloque  5
+470,TARQUI,FORTIN,,,Coop. El Fortín Bloque  6
+471,TARQUI,FORTIN,,,Coop. El Fortín Bloque  7
+472,TARQUI,FORTIN,,,Coop. El Fortín Bloque  8
+473,TARQUI,FORTIN,,,Coop. El Fortín Bloque  9
+474,FEBRES CORDERO,FEBRES CORDERO,,,Coop. El Madrigal
+475,OTROS,OTROS,,,Coop. El Paracaidista
+476,TARQUI,MAPASINGUE,,,Coop. El Prado
+477,OLMEDO,OLMEDO,,,Coop. Eloy Alfaro
+478,TARQUI,JUAN MONTALVO,,,Coop. Estrella de Belen
+479,TARQUI,JUAN MONTALVO,,,Coop. Ficoa de Montalvo
+480,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 1
+481,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 10
+482,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 11
+483,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 12
+484,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 13
+485,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 14
+486,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 15
+487,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 16
+488,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 17
+489,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 18
+490,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 19
+491,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 2
+492,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 20
+493,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 21
+494,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 22
+495,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 3
+496,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 4
+497,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 5
+498,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 6
+499,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 7
+500,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 8
+501,TARQUI,FLOR DE BASTION,,,Coop. Flor del Bastion Bq. 9
+502,TARQUI,FORTIN,,,Coop. Flor del Fortin
+503,,,,,Coop. Fuerza del cambio
+504,,,,,Coop. Germán Zambrano
+505,,,,,Coop. Guayaquil
+506,XIMENA,XIMENA,,,Coop. Guayas y Quil 1
+507,XIMENA,XIMENA,,,Coop. Guayas y Quil 2
+508,TARQUI,NUEVA PROSPERINA,,,Coop. Guerreros del Fortin
+509,TARQUI,FLORIDA,,,Coop. Hogar de Nazareth
+510,TARQUI,NUEVA PROSPERINA,,,Coop. Horizontes del Fortin
+511,TARQUI,NUEVA PROSPERINA,,,Coop. Horizontes del Guerrero
+512,TARQUI,MAPASINGUE,,,Coop. Jaime Pólit
+513,TARQUI,MAPASINGUE,,,Coop. Jaime Roldós Aguilera
+514,TARQUI,JARDINES DEL SALADO,,,Coop. Jardines del salado
+515,TARQUI,BRISAS DEL NORTE,,,Coop. Juan Bautista
+516,TARQUI,JUAN MONTALVO,,,Coop. Juan Montalvo Cdla La Alegria
+517,TARQUI,JUAN MONTALVO,,,Coop. Juan Montalvo Coop. Julio Cartajena
+518,TARQUI,JUAN MONTALVO,,,Coop. Juan Montalvo Coop. La Concordia
+519,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Juan Pablo II
+520,TARQUI,MAPASINGUE,,,Coop. La Esperanza Mpasingue
+521,TARQUI,PROSPERINA,,,Coop. La Prosperina
+522,TARQUI,JUAN MONTALVO,,,Coop. La Tierra es nuestra
+523,TARQUI,KENNEDY,,,Coop. Las Garzas
+524,TARQUI,LIMONAL,,,Coop. Limonal
+525,TARQUI,FORTIN,,,Coop. Lincoln Salcedo Flor del Fortin
+526,TARQUI,SAN FELIPE,,,Coop. Lomas de la Prosperina
+527,FEBRES CORDERO,FEBRES CORDERO,,,Coop. Los Ángeles
+528,TARQUI,PASCUALES,,,Coop. Los Manguitos
+529,TARQUI,ROSALES,,,Coop. Los Rosales 1
+530,TARQUI,ROSALES,,,Coop. Los Rosales 2
+531,TARQUI,ROSALES,,,Coop. Los Rosales 3
+532,TARQUI,ROSALES,,,Coop. Los Rosales 4
+533,TARQUI,SAN EDUARDO,,,Coop. Los Senderos
+534,TARQUI,SAN EDUARDO,,,"Coop. Los Senderos,"
+535,TARQUI,VERGELES,,,Coop. Los vergeles 1° Etapa
+536,TARQUI,VERGELES,,,Coop. Los vergeles 2° Etapa
+537,TARQUI,VERGELES,,,Coop. Los vergeles 3° Etapa
+538,TARQUI,MAPASINGUE,,,Coop. Luz de America Mapasingue
+539,TARQUI,PROSPERINA,,,Coop. Manuela Cañizares
+540,TARQUI,MAPASINGUE,,,Coop. Mapasingue Este
+541,TARQUI,MAPASINGUE,,,Coop. Mapasingue Oeste
+542,OTROS,OTROS,,,Coop. María Eugenia Cordovez
+543,XIMENA,XIMENA,,,Coop. Mayaycu
+544,TARQUI,MONTE SINAI,,,Coop. Monte Sinai
+545,TARQUI,MONTE SINAI,,,Coop. Monte Sinai Coop. 31 de Octubre
+546,TARQUI,GUAYACANES,,,"Coop. Nueva Generación,  "
+547,XIMENA,XIMENA,,,Coop. Nueva Granada
+548,XIMENA,XIMENA,,,Coop. Nueva Luz
+549,TARQUI,SAN FELIPE,,,Coop. Nueva Prosperina
+550,TARQUI,FLORIDA,,,Coop. Pancho Jacome
+551,TARQUI,FLOR DE BASTION,,,Coop. Paraiso de la Flor
+552,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  1
+553,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  3
+554,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  4
+555,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  7
+556,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  8
+557,TARQUI,FLOR DE BASTION,,,Coop. Paraíso de la Flor Bloque  9
+558,TARQUI,JUAN MONTALVO,,,Coop. Pastor Vera
+559,TARQUI,URDESA,,,Coop. Paz y Amor
+561,PASCUALES,PASCUALES,,,Coop. Pie de Lucha - Pascuales
+562,TARQUI,LAS PEÑAS,,,Coop. Primero de Mayo
+563,TARQUI,MAPASINGUE,,,Coop. Prosperina Este Coop. Jaime Roldos Aguilera
+564,TARQUI,JUAN MONTALVO,,,Coop. Pueblo y su Reino
+565,TARQUI,SAUCES,,,Coop. Renacer
+566,TARQUI,NUEVA PROSPERINA,,,Coop. Reynaldo Quiñonez
+567,TARQUI,NUEVA PROSPERINA,,,Coop. Reynaldo Quiñonez Coop. San Ignacio
+568,DAULE,DAULE,,,Coop. San Francisco
+569,DAULE,DAULE,,,Coop. San Francisco 1
+570,DAULE,DAULE,,,Coop. San Francisco 2
+571,DAULE,DAULE,,,Coop. San Francisco I
+572,DAULE,DAULE,,,Coop. San Francisco II
+573,METROPOLIS,METROPOLIS,,,Coop. San Nicolás
+574,TARQUI,SERGIO TORAL,,,Coop. Sergio Toral 1
+575,TARQUI,SERGIO TORAL,,,Coop. Sergio Toral 2
+576,TARQUI,PROSPERINA,,Eufrasia,Coop. Sta. Eufracia
+577,OTROS,OTROS,,,Coop. Trinidad de Dios
+578,TARQUI,NUEVA PROSPERINA,,,Coop. Unidad por la Paz
+579,TARQUI,NUEVA PROSPERINA,,,Coop. Unidos por la Paz
+580,TARQUI,PASCUALES,,,Coop. Unidos Venceremos
+581,,,,,"Coop. Unión de Propietarios, "
+582,TARQUI,KENNEDY,,,Coop. Union Paz y Progreso
+583,TARQUI,URDENOR,,,Coop. Urbanor
+584,TARQUI,URDENOR,,,Coop. Urdenor 1
+585,TARQUI,URDENOR,,,Coop. Urdenor II
+586,TARQUI,FLOR DE BASTION,,,Coop. Valerio Estacio
+587,TARQUI,VERGELES,,,Coop. Valle de los Geranios
+588,TARQUI,KENNEDY,,,Coop. Velasco
+589,TARQUI,SAN EDUARDO,,,Coop. Virgen del Cisne
+590,TARQUI,BELLAVISTA,,,Coop. Vista Alegre
+591,TARQUI,BELLAVISTA,,,Coop. Vista Bella
+592,TARQUI,IETEL,,,Coop. Vivienda Empleados I.E.T.E.L.
+593,TARQUI,VOLUNTAD DE DIOS,,,Coop. Voluntad de Dios
+594,DAULE,DAULE,,,Cooperativa San Francisco
+595,TARQUI,BELLAVISTA,,,Cooperativa Sol Naciente
+596,TARQUI,JUAN MONTALVO,,,Cooperativa Viva la Gaviota
+597,TARQUI,BELLAVISTA,,,Coopp. Vista Bella
+598,XIMENA,XIMENA,,,Cop. Francisco de Orellana
+599,TARQUI,EL PARAISO,,,Cordillera del Cóndor
+600,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. 28 de Abril
+601,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Batalla de Jambeli
+602,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Herencia de Jehova
+603,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. La ladrillera
+604,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Pastores de Fatima
+605,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Templo del saber
+606,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Tiwinza Amazonico
+607,TARQUI,FLOR DE BASTION,,,Flor de Bastion  Coop. Valle de la Flor
+608,,,,,L. Salcedo
+609,TARQUI,MAPASINGUE,,,Lotizacion Adriana Sector A y B
+610,TARQUI,PROSPERINA,,,Lotizacion Aso. Comercial
+611,TARQUI,MAPASINGUE,,,Lot. San Carlos
+612,TARQUI,MAPASINGUE,,,Lotizacion Sta Cecilia
+613,,,,,Lotes con servicios Alegria
+614,XIMENA,XIMENA,,,Lotes San Francisco
+615,,,,,Lotización Atlanta
+616,TARQUI,SAN FELIPE,,,"Lotización Lomas de Prosperina,"
+617,TARQUI,MONTE SINAI,,,Monte Sinai Coop. Las Marias
+618,PASCUALES,PASCUALES,,,Parroquia Pascuales  Barrio las Vegas
+619,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. 5 de Diciembre
+620,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. Assad Bucaram
+621,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. Los Manguitos
+622,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. San Nicolas
+623,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. Union de Belen
+624,PASCUALES,PASCUALES,,,Parroquia Pascuales  Coop. Vilcabamba
+625,PASCUALES,PASCUALES,,,Pascuales
+626,FEBRES CORDERO,FEBRES CORDERO,,,Precoop. 12 de Octubre
+627,TARQUI,PROSPERINA,,,Precoop. 14 de Agosto
+628,TARQUI,MAPASINGUE,,,Precoop. 2 de Octubre
+629,TARQUI,MAPASINGUE,,,Precoop. 24 de Octubre
+630,TARQUI,MAPASINGUE,,,precoop. 27 de Enero
+631,FEBRES CORDERO,FEBRES CORDERO,,,Precoop. 29 de Abril
+632,TARQUI,PROSPERINA,,,Precoop. 4 de Diciembre
+633,AYACUCHO,AYACUCHO,,,Precoop. 6 de Marzo
+634,XIMENA,XIMENA,,,Precoop. Amazonas Libre
+635,TARQUI,FLORIDA,,,Precoop. Bello Horizonte A.
+636,TARQUI,FLORIDA,,,Precoop. Bello Horizonte B.
+637,TARQUI,PROSPERINA,,,Precoop. Colina de la Prosperina
+638,TARQUI,FLORIDA,,,Precoop. Colinas de La Florida
+639,TARQUI,MAPASINGUE,,,Precoop. Colinas de la Martha
+640,TARQUI,MAPASINGUE,,,Precoop. Colinas de Mapasingue 3
+641,TARQUI,MAPASINGUE,,,Precoop. Corazón de La Patria
+642,TARQUI,MAPASINGUE,,,Precoop. Cumbres de Mapasingue
+643,TARQUI,MAPASINGUE,,,precoop. El Cepro
+644,TARQUI,MAPASINGUE,,,Precoop. El Cerro
+645,TARQUI,CONDOR,,,Precoop. El Cóndor
+646,TARQUI,FLORIDA,,,Precoop. El Recreo
+647,TARQUI,PASCUALES,,,Precoop. En Pie de Lucha
+648,TARQUI,FLORIDA,,,Precoop. Francisco Jácome I
+649,TARQUI,PROSPERINA,,,Precoop. Gallegos Lara
+650,TARQUI,MAPASINGUE,,,Precoop. Hijos del Suelo
+651,XIMENA,XIMENA,,,Precoop. Jaime Roldós
+652,XIMENA,XIMENA,,,Precoop. Justicia y Libertad
+653,TARQUI,MAPASINGUE,,,Precoop. La Esperanza
+654,TARQUI,LAS CUMBRES,,,"Precoop. La Guardianía, "
+655,TARQUI,PROSPERINA,,,Precoop. Los Comandos Prosperina
+656,TARQUI,PROSPERINA,,,Precoop. Manuela Cañizares
+657,TARQUI,MAPASINGUE,,,precoop. Mirador de Mapasingue
+658,XIMENA,XIMENA,,,Precoop. Nueva Luz
+659,TARQUI,FLORIDA,,,Precoop. Pancho Jácome
+660,FEBRES CORDERO,FEBRES CORDERO,,,Precoop. Patria Nueva
+661,,,,,Precoop. San Francisco
+662,METROPOLIS,METROPOLIS,,,Precoop. San Nicolás
+663,TARQUI,FLORIDA,,,Precoop. Simon Bolivar
+664,TARQUI,FLORIDA,,,Precoop. Unidad Nacional
+665,TARQUI,FLORIDA,,,Precoop. Unidad Nacional II
+666,TARQUI,FLORIDA,,,Precoop. Unidos Somos Más
+667,TARQUI,KENNEDY,,,Precoop. Unión Paz y Progreso
+668,TARQUI,MAPASINGUE,,,Precooperativa 26 de Febrero
+669,TARQUI,MAPASINGUE,,,Precooperativa Colinas de Mapasingue
+670,TARQUI,JUAN MONTALVO,,,Precop. 3 de Diciembre
+671,XIMENA,XIMENA,,,coop. 25 de Julio
+672,TARQUI,PROSPERINA,,,Terrenos Particulares (Prosperina)
+673,TARQUI,FLORIDA,,,Urb Florida Norte
+674,TARQUI,SAMANES,,,Urb los Samanes Etapa 1
+675,TARQUI,SAMANES,,,Urb los Samanes Etapa 2
+676,TARQUI,SAMANES,,,Urb los Samanes Etapa 3
+677,TARQUI,SAMANES,,,Urb los Samanes Etapa 4
+678,TARQUI,SAMANES,,,Urb los Samanes Etapa 5
+679,TARQUI,SAMANES,,,Urb los Samanes Etapa 6
+680,TARQUI,SAMANES,,,Urb los Samanes Etapa 7
+681,CHONGON,CHONGON,,,Urb Terranostra
+682,DAULE,DAULE,,,Urb Villa Club. Etapa Aura
+683,DAULE,DAULE,,,Urb Villa Club. Etapa Doral
+684,DAULE,DAULE,,,Urb Villa Club. Etapa Estelar
+685,DAULE,DAULE,,,Urb Villa Club. Etapa Floral
+686,DAULE,DAULE,,,Urb Villa Club. Etapa Hermes
+687,DAULE,DAULE,,,Urb Villa Club. Etapa Jupiter
+688,TARQUI,SAN FELIPE,,,Urb. Santorini
+689,ACUARELA DEL RIO,ACUARELA DEL RIO,,,Urb. Acuarela del Rio
+690,TARQUI,LOS CEIBOS,,,Urb. Anexo A Colinas de los Ceibos
+691,TARQUI,FORTIN,,,Urb. Bella Visión
+692,TARQUI,PASCUALES,,,Urb. Beta Mercdes Molina
+693,TARQUI,URDESA,,,Urb. Bosques del Salado
+694,OTROS,OTROS,,,Urb. Brisas del Mar
+695,TARQUI,BRISAS DEL NORTE,,,Urb. Brisas del Norte
+696,TARQUI,BRISAS DEL RIO,,,Urb. Brisas del Rio
+697,TARQUI,ATARAZANA,,,"Urb. Buena Esperanza,  "
+698,DAULE,DAULE,,,Urb. Castilla
+699,SAMBORONDON,SAMBORONDON,,,"Urb. Central, "
+700,TARQUI,URDESA,,,Urb. Ciudad Colón
+701,,,,,Urb. Ciudad del Aire
+703,TARQUI,HUANCAVILCA NORTE,,,Urb. Ciudad del Norte
+704,TARQUI,CIUDAD DEL RIO,,,Urb. Ciudad del Rio
+705,CHONGON,CHONGON,,,Urb. Ciudad Olimpo
+706,TARQUI,FLOR DE BASTION,,,Urb. Ciudad Victoria
+707,TARQUI,INMACONSA,,,Urb. Colinas al Norte
+708,TARQUI,INMACONSA,,,Urb. Colinas al Sol
+709,TARQUI,LOS CEIBOS,,,Urb. Colinas de los Ceibos
+710,TARQUI,URDENOR,,,Urb. Colinas de Urdenor
+711,TARQUI,FLOR DE BASTION,,,Urb. Cumbres del Sol
+712,DAULE,DAULE,,,Urb. Eco City
+713,TARQUI,MONTEBELLO,,,"Urb. El Caracol, "
+714,TARQUI,MAPASINGUE,,,Urb. El Prado
+715,TARQUI,MAPASINGUE,,,Urb. Jaime Pólit
+716,TARQUI,MUCHO LOTE II,,,Urb. Jardines del Rio
+717,TARQUI,KENNEDY,,,Urb. La Cima
+719,TARQUI,FLORIDA,,,Urb. La Florida
+720,DAULE,DAULE,,,Urb. La Joya. Etapa Ambar
+721,DAULE,DAULE,,,Urb. La Joya. Etapa Brillante
+722,DAULE,DAULE,,,Urb. La Joya. Etapa Gema
+723,DAULE,DAULE,,,Urb. La Joya. Etapa Murano
+724,DAULE,DAULE,,,Urb. La Joya. Etapa Opalo
+725,DAULE,DAULE,,,Urb. La Joya. Etapa Platino
+726,DAULE,DAULE,,,Urb. La Joya. Etapa Zafiro
+727,DAULE,DAULE,,,Urb. Lago Capeira
+728,URDESA,URDESA,,,Urb. Lomas de Urdesa
+729,TARQUI,ALAMOS,,,Urb. Los Álamos
+730,XIMENA,XIMENA,,,Urb. Los Jardines
+731,TARQUI,SAUCES,,,Urb. Sauces 1
+732,TARQUI,SAUCES,,,Urb. Sauces 2
+733,TARQUI,SAUCES,,,Urb. Sauces 3
+734,TARQUI,SAUCES,,,Urb. Sauces 4
+735,TARQUI,SAUCES,,,Urb. Sauces 5
+736,TARQUI,SAUCES,,,Urb. Sauces 6
+737,TARQUI,SAUCES,,,Urb. Sauces 7
+738,TARQUI,SAUCES,,,Urb. Sauces 8
+739,TARQUI,SAUCES,,,Urb. Sauces 9
+740,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Cdla los Cerros
+741,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop El Condor
+742,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop. 1 de Mayo
+743,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop. 24 de Octubre
+744,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop. 26 de Febrero
+745,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop. 27 de Enero
+746,TARQUI,PROSPERINA,,,Urb. Mapasingue Este Coop. 9 de Enero
+747,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Coop. Las Rocas
+748,TARQUI,MAPASINGUE,,,Urb. Mapasingue Este Cop. Luz de America
+749,TARQUI,METROPOLIS,,,Urb. Metropolis 1
+750,TARQUI,METROPOLIS,,,Urb. Metropolis 2
+751,TARQUI,METROPOLIS,,,Urb. Metrópolis II
+752,TARQUI,MUCHO LOTE II,,,Urb. Mi Lote II
+753,SALITRE,SALITRE,,,Urb. Milan
+754,TARQUI,MIRADOR DEL NORTE,,,Urb. Mirador del Norte
+755,TARQUI,MONTEBELLO,,,Urb. Montebello
+756,TARQUI,LOS CEIBOS,,,Urb. Olimpus
+757,TARQUI,LOS CEIBOS,,,Urb. Olimpus
+758,TARQUI,NAVAL NORTE,,,Urb. Pedro Menendez
+759,XIMENA,XIMENA,,,Urb. Piso Techo
+760,TARQUI,SAMANES,,,Urb. Polaris
+761,TARQUI,LUIS VERNAZA,,,Urb. Puerta del sol
+762,CHONGON,CHONGON,,,Urb. Puerto Azul
+763,TARQUI,PARQUE INDUSTRIAL,,,Urb. Saint Gallen
+764,TARQUI,SAN FELIPE,,,Urb. San Felipe
+765,TARQUI,NUEVA PROSPERINA,,,Urb. Socio Vivienda 1
+766,TARQUI,NUEVA PROSPERINA,,,Urb. Socio Vivienda 2
+767,TARQUI,NUEVA PROSPERINA,,,Urb. Socio Vivienda 3
+768,TARQUI,SANTA CECILIA,,Santa Cecilia,Urb. Sta Cecilia
+769,TARQUI,PROSPERINA,,,Urb. Sta. Beatriz
+770,TARQUI,CIUDAD DEL RIO,,,Urb. Veranda
+771,TARQUI,MUCHO LOTE II,,,Urb. Victoria del Rio
+772,OTROS,OTROS,,,Urb. Villa Bonita
+773,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 1
+774,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 2 Urb. Villa España Etapa Barcelona
+775,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 3 Urb. Villa España Etapa Malaga
+776,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 4 Urb. Villa España Etapa Valencia
+777,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 5 Urb. Villa España Etapa Madrid
+778,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 6 Urb. Villa España Etapa Toledo
+779,TARQUI,MUCHO LOTE I,,,Urb.Mucho Lote Etapa 7
+780,XIMENA,XIMENA,,,Floresta
+781,XIMENA,XIMENA,,,Pradera
+782,XIMENA,XIMENA,,,Saiba
+783,DAULE,DAULE,,,La joya
+784,XIMENA,XIMENA,,,Esteros
+785,TARQUI,FLORIDA,,,Recreo
+786,TARQUI,PUERTO SANTA ANA,,,Cerro santana
+787,TARQUI,PUERTO SANTA ANA,,,Cerro Santa ana
+788,XIMENA,XIMENA,,,Coop mariuxi
+789,XIMENA,XIMENA,,,Coop Santiaguito
+790,XIMENA,XIMENA,,,Coop Santiago
+791,XIMENA,XIMENA,,,Coop Union de bananeros
+792,XIMENA,XIMENA,,,Coop u bananera
+793,XIMENA,XIMENA,,,Coop Esmeraldas Chiquito
+794,XIMENA,XIMENA,,,Coop Esmeralda Chiquito
+795,XIMENA,XIMENA,,,Coop u de bananeros
+796,TARQUI,BASTION POPULAR,,,bastion popular
+797,XIMENA,XIMENA,,,coop proletario
+798,XIMENA,XIMENA,,Sopeña,Sopea
+799,XIMENA,XIMENA,,,fertiza
+800,XIMENA,XIMENA,,,coop carlos castro
+801,XIMENA,XIMENA,,,hogar los pobres
+802,FEBRES CORDERO,FEBRES CORDERO,,,fuerza de los pobres
+803,XIMENA,XIMENA,,,derecho de los pobres
+804,XIMENA,XIMENA,,,sta monica
+805,XIMENA,XIMENA,,,Union de bananero
+806,TARQUI,JUAN MONTALVO,,,Cdla la alegria
+807,TARQUI,VERGELES,,,Vergeles
+808,XIMENA,XIMENA,,,Tulipanes
+809,CHONGON,CHONGON,,,via a la costa
+810,DAULE,DAULE,,,via daule
+811,TARQUI,SAN EDUARDO,,,san eduardo
+812,XIMENA,XIMENA,,,Esmeralda chiquita
+813,XIMENA,XIMENA,,,Esmeralda libre
+814,TARQUI,SERGIO TORAL,,,Sergio toral
+815,DAULE,DAULE,,,Villa del rey
+816,OTROS,OTROS,,,Libertad
+817,URDANETA,URDANETA,,,Cdla maldonado
+818,TARQUI,URDESA,,,Acasias
+819,XIMENA,XIMENA,,,Sandino
+820,XIMENA,XIMENA,,,7 de septiembre
+821,TARQUI,FLOR DE BASTION,,,Balerio estacio
+822,DURAN,DURAN,,,Primavera 1
+823,DURAN,DURAN,,,Primavera 2
+824,DURAN,DURAN,,,Primavera ii
+825,DURAN,DURAN,,,Primavera i
+826,DURAN,DURAN,,,Primavera
+827,FEBRES CORDERO,FEBRES CORDERO,,,rosendo aviles
+828,TARQUI,MONTE SINAI,,,monte sinay
+829,XIMENA,XIMENA,,,popular
+830,XIMENA,XIMENA,,,jacobo b.
+831,TARQUI,FLORIDA,,,francisco jacome
+832,XIMENA,XIMENA,,,stguito roldos
+833,XIMENA,XIMENA,,,stgo roldos
+834,XIMENA,XIMENA,,,santiguito de roldos
+835,LETAMENDI,LETAMENDI,,,carlos guevara
+836,XIMENA,XIMENA,,,sgto roldos
+837,XIMENA,XIMENA,,,s roldos
+838,XIMENA,XIMENA,,,siete lag
+839,OTROS,OTROS,,,los lidios
+840,XIMENA,XIMENA,,,hogar para pobres
+841,OTROS,OTROS,,,guevara
+842,TARQUI,URDESA,,,cipreces
+843,DAULE,DAULE,,,villa club
+844,TARQUI,ORQUIDEAS,,,el maestro
+845,FEBRES CORDERO,FEBRES CORDERO,,,nueva ecuador
+846,XIMENA,XIMENA,,,seremos los primeros
+847,XIMENA,XIMENA,,,proletaria sin tierra
+848,TARQUI,FLORIDA,,,las palmeras
+849,XIMENA ,XIMENA,,,9 de octubre
+850,XIMENA ,XIMENA,,,estrella de octubre
+851,TARQUI,PROSPERINA,,,12 de octubre
+852,OTROS,OTROS,,,31 de octubre
+853,XIMENA,XIMENA,,,sta. monica
+854,XIMENA,XIMENA,,,u. bananeros
+855,XIMENA,XIMENA,,,union bananeros
+856,DURAN,DURAN,,,duran
+857,LETAMENDI,LETAMENDI,,,leonidas plaza
+858,XIMENA ,XIMENA,,,9 de oct.
+859,CARBO,CARBO,,,la perla
+860,XIMENA,XIMENA,,,perla sur
+861,POSORJA,POSORJA,,,posorja
+862,TARQUI,FERROVIARIA,,,5 de junio
+863,DAULE,DAULE,,,aurora
+864,SALITRE,SALITRE,,,salitre
+865,OTROS,OTROS,,,ecua city
+866,LETAMENDI,LETAMENDI,,,garcia goyena
+867,LETAMENDI,LETAMENDI,,,lizardo garzia
+868,FEBRES CORDERO,FEBRES CORDERO,,,vencer o morir
+869,BOLIVAR SAGRARIO,BOLIVAR SAGRARIO,,,lorenzo de garaicoa
+870,XIMENA,XIMENA,,,union bananeros
+871,XIMENA,XIMENA,,,9 octubre
+872,FEBRES CORDERO,FEBRES CORDERO,,,12 octubre
+873,XIMENA,XIMENA,,,granada
+874,OTROS,OTROS,,,san jacinto
+875,LETAMENDI,LETAMENDI,,,calicuchima
+876,TARQUI,FLORIDA,,,fco jacome
+877,LETAMENDI,LETAMENDI,,,san martin
+878,FEBRES CORDERO,FEBRES CORDERO,,,antonio neumabe
+879,OTROS,OTROS,,,estrella
+880,TARQUI,EL PARAISO,,,paraiso
+881,TARQUI,FORTIN,,,coop fortin
+882,XIMENA,XIMENA,,,comandante
+883,OTROS,OTROS,,,merida salamea
+884,FEBRES CORDERO,FEBRES CORDERO,,,trinitaria
+885,TARQUI,HUANCAVILCA NORTE,,,estrella del mar
+886,CHONGON,CHONGON,,,valle alto
+887,XIMENA,XIMENA,,,santgto roldos
+888,XIMENA,XIMENA,,,sguito roldos
+889,XIMENA,XIMENA,,,santgto roldos
+890,XIMENA,XIMENA,,,stgto roldos
+891,XIMENA,XIMENA,,,santiagito  roldos
+892,LETAMENDI,LETAMENDI,,,camilo destruje
+893,FEBRES CORDERO,FEBRES CORDERO,,,nelson mandela
+894,SAMBORONDON,SAMBORONDON,,,samborondon
+895,XIMENA,XIMENA,,,iess
+896,TARQUI,IETEL,,,ietel
+897,TARQUI,JUAN MONTALVO,,,julio cartagena
+898,OTROS ,OTROS,,,7 de julio
+899,XIMENA,XIMENA,,,1ero de marzo
+900,OTROS,OTROS,,,oroma gonzalez
+901,TARQUI,ADACE,,,adace
+902,DAULE,DAULE,,,villas del rey
+903,TARQUI,SANTA CECILIA,,,santa cecilia
+904,XIMENA,XIMENA,,,venecia
+905,TARQUI,IETEL,,,cdla ietel
+906,XIMENA,XIMENA,,,nuevo horizonte
+907,XIMENA,XIMENA,,,nuevo ideal
+908,XIMENA,XIMENA,,,monica
+909,OTROS,OTROS,,,monseor
+910,CHONGON,CHONGON,,,puertas del sol
+911,DURAN,DURAN,,,orama gonzalez
+912,PLAYAS,PLAYAS,,,playas
+913,XIMENA,XIMENA,,,santa martha
+914,XIMENA,XIMENA,,,martha roldos
+915,OTROS,OTROS,,,nueva frontera
+916,TARQUI,BELLAVISTA,,,nueva esperanza
+917,TARQUI,KENNEDY,,,nueva kennedy
+918,XIMENA,XIMENA,,,nueva grana
+919,XIMENA,XIMENA,,,covien
+920,SAMBORONDON,SAMBORONDON,,,matices
+921,DAULE,DAULE,,,daule
+922,XIMENA,XIMENA,,,claveles
+923,TARQUI,FLOR DE BASTION,,,flor del bastion
+924,TARQUI,BASTION POPULAR,,,bastion chiquito
+925,TARQUI,FLOR DE BASTION,,,flor bastion
+926,TARQUI,BASTION POPULAR,,,bastion pop
+927,TARQUI,METROPOLIS,,,metropolis
+928,OTRO,OTRO,OTRO,OTRO,canton
+929,OTRO,OTRO,OTRO,OTRO,rcto
+930,OTRO,OTRO,OTRO,OTRO,recinto
+932,CHONGON,CHONGON,Ceibos,Chongón,San Jerónimo
+933,CHONGON,CHONGON,Ceibos,Chongón,Chongón
+934,CHONGON,CHONGON,Ceibos,Chongón,Chongoncito
+935,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Puerto Azul
+936,CHONGON,CHONGON,Ceibos,Puerto Hondo,Bosques de la Costa
+937,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Torres del Salado
+938,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Portal al Sol
+939,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Casa Club
+940,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Portovita
+941,CHONGON,CHONGON,Ceibos,Puerto Hondo,Ciudadela Portofino
+942,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Punta Esmeraldas
+943,CHONGON,CHONGON,Ceibos,Puerto Hondo,Lérida
+944,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Terra Nostra
+945,CHONGON,CHONGON,Ceibos,Puerto Hondo,Valencia
+946,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Vía al Sol
+947,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Arcadia
+948,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Costa Real
+949,CHONGON,CHONGON,Ceibos,Puerto Hondo,Urbanización Valle Alto
+950,TARQUI,LAS CUMBRES,Ceibos,Ceibos,Urbanización Las Cumbres
+951,TARQUI,LOS CEIBOS,Ceibos,Ceibos,Colinas de los Ceibos
+952,TARQUI,LOS CEIBOS,Ceibos,Ceibos,Los Ceibos
+953,TARQUI,LOS CEIBOS,Ceibos,Ceibos,Urbanización Los Cedros
+954,TARQUI,LOS CEIBOS,Ceibos,Ceibos,Urbanización Los Parques
+955,TARQUI,GUAYACANES,,Guayacanes,GUAYACANES
+956,TARQUI,SAMANES,,,SAMANES III
+957,TARQUI,SAMANES,,,SAMANES I
+958,TARQUI,SAMANES,,,SAMANES II
+959,TARQUI,SAMANES,,,SAMANES  VI
+960,TARQUI,SAMANES,,,SAMANES IV
+961,TARQUI,SAMANES,,,SAMANES V
+962,TARQUI,SAMANES,,,Santa Inés
+963,TARQUI,SAUCES,,Sauces,SAUCES II
+964,TARQUI,SAUCES,,Sauces,SAUCES VII
+965,TARQUI,SAUCES,,Sauces,SAUCES  IX
+966,TARQUI,ACUARELA DEL RIO,,Sauces,ACUARELA DEL RIO
+967,TARQUI,LIMONAL,,Sauces,Ciudadela LIMONAL DEL RIO
+968,TARQUI,SAUCES,,Sauces,SAUCES  III
+969,TARQUI,SAUCES,,Sauces,SAUCES  IV
+970,TARQUI,BRISAS DEL NORTE,,Sauces,BRISAS DEL NORTE
+971,TARQUI,SAUCES,,Sauces,SAUCES VI
+972,TARQUI,KENNEDY,,Kennedy,Kennedy Norte
+973,TARQUI,KENNEDY,,Kennedy,Nueva Kenedy
+974,TARQUI,KENNEDY,,Kennedy,Zona Industrial
+975,TARQUI,KENNEDY,,Kennedy,Ciudadela Guayaquil
+976,TARQUI,KENNEDY,,Kennedy,Ciudadela Modelo
+977,TARQUI,ALBORADA,,Alborada,ALBORADA II ETAPA
+978,TARQUI,ALBORADA,,Alborada,ALBORADA VIII ETAPA
+979,TARQUI,ALBORADA,,Alborada,ALBORADA VII ETAPA
+980,TARQUI,ALBORADA,,Alborada,ALBORADA  IV ETAPA
+981,TARQUI,SAUCES,,,SAUCES I
+982,TARQUI,ALBORADA,,Alborada,ALBORADA V
+983,TARQUI,ALBORADA,,Alborada,ALBORADA XII
+984,TARQUI,ALBORADA,,Alborada,ALBORADA IX
+985,TARQUI,ALBORADA,,Alborada,ALBORADA XI
+986,TARQUI,ALBORADA,,Alborada,ALBONOR
+987,TARQUI,ATARAZANA,,Atarazana,Ciudadela La FAE
+988,TARQUI,ATARAZANA,,Atarazana,Atarazana
+989,TARQUI,RIO GUAYAS,,,Fuerza Aérea Ecuatoriana
+990,TARQUI,LUIS VERNAZA,,,Ciudadela Vernaza Norte
+991,TARQUI,GARZOTA,,,Garzota 1
+992,TARQUI,GARZOTA,,,Garzota 2
+993,TARQUI,URDESA,,Urdesa,Urdesa
+994,TARQUI,URDESA,,Urdesa,Lomas de Urdesa
+995,TARQUI,URDESA,,Urdesa,Urdesa Norte
+996,TARQUI,URDESA,,Urdesa,Urbanor
+997,TARQUI,URDENOR,,Urdesa,Urdenor
+998,TARQUI,URDESA,,Urdesa,Bosques del Salado
+999,TARQUI,URDESA,,Urdesa,Cooperativa Paz y Amor
+1000,LETAMENDI,LETAMENDI,,,Jaime Toral Salamea
+1001,LETAMENDI,LETAMENDI,,,Assad Bucaram
+1002,XIMENA,XIMENA,,,18 de agosto
+1003,GARCIA MORENO,GARCIA MORENO,,,Cristo del Consuelo
+1004,FEBRES CORDERO,FEBRES CORDERO,,Venezuela,Barrio Puerto Lisa
+1005,URDANETA,URDANETA,,Garay,Barrio Garay
+1006,AYACUCHO,AYACUCHO,,,Barrio del Astillero
+9999,OLMEDO,OLMEDO,,,Chile
+1007,ROCAFUERTE,ROCAFUERTE,,Victoria,Bahía
+1008,9 DE OCTUBRE,9 DE OCTUBRE,,Victoria,La Victoria
+1009,TARQUI,LAS PEÑAS,,,Cerro del Carmen
+1010,TARQUI,LAS PEÑAS,,,Las Peñas
+1011,TARQUI,PUERTO SANTA ANA,,,Puerto Santa Ana
+1012,,,,,Parque de las Madres
+1013,FEBRES CORDERO,FEBRES CORDERO,Portete,El Cisne,El Cisne 2
+1014,LETAMENDI,LETAMENDI,Portete,,Puerto Lisa
+1015,FEBRES CORDERO,FEBRES CORDERO,Portete,El Cisne,El Cisne
+1016,FEBRES CORDERO,FEBRES CORDERO,Portete,El Cisne,4 Aces
+1017,FEBRES CORDERO,FEBRES CORDERO,Portete,,Independencia
+1018,FEBRES CORDERO,FEBRES CORDERO,Portete,,La Unión
+1019,FEBRES CORDERO,FEBRES CORDERO,Portete,,José Joaquín de Olmedo
+1020,FEBRES CORDERO,FEBRES CORDERO,Portete,,La Buena Esperanza
+1021,FEBRES CORDERO,FEBRES CORDERO,Portete,,Plan Piloto
+1022,FEBRES CORDERO,FEBRES CORDERO,Portete,,9 de octubre
+1023,FEBRES CORDERO,FEBRES CORDERO,Portete,,28 de mayo
+1024,FEBRES CORDERO,FEBRES CORDERO,Portete,,Alcance del Suburbio
+1025,FEBRES CORDERO,FEBRES CORDERO,Portete,,San Francisco de Asís
+1026,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,Fé Y Alegría
+1027,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,El Cisne
+1028,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,Estero Salado
+1029,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,Batallón del Suburbio
+1030,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,Santa Teresita
+1031,FEBRES CORDERO,FEBRES CORDERO,Portete,Batallón del Suburbio,Abel Gilbert
+1032,LETAMENDI,LETAMENDI,Portete,Chala,Ciudadela La Chala
+1033,LETAMENDI,LETAMENDI,Portete,Chala,Barrio Lindo
+1034,TARQUI,SERGIO TORAL,Nueva Prosperina,Monte Sinaí,La Carolina
+1035,TARQUI,SERGIO TORAL,Nueva Prosperina,Monte Sinaí,El Cordón
+1036,TARQUI,SERGIO TORAL,Nueva Prosperina,Monte Sinaí,La Planada
+1037,TARQUI,SERGIO TORAL,Nueva Prosperina,Monte Sinaí,Sergio Toral II
+1038,TARQUI,MONTE SINAI,Nueva Prosperina,Monte Sinaí,Cooperativa Monte Sinaí
+1039,TARQUI,HOGAR DE CRISTO,Nueva Prosperina,Monte Sinaí,Hogar de Cristo
+1040,TARQUI,MONTE SINAI,Nueva Prosperina,Monte Sinaí,Cooperativa Trinidad de Dios
+1041,TARQUI,VOLUNTAD DE DIOS,Nueva Prosperina,Monte Sinaí,Voluntad de Dios
+1042,TARQUI,SERGIO TORAL,Nueva Prosperina,Monte Sinaí,Sergio Toral I
+1043,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Socio Vivienda
+1044,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Colinas de la Florida
+1045,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Cooperativa el Mirador
+1046,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Colinas de la Florida II
+1047,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Cooperativa Guerreros del Fortín I
+1048,TARQUI,NUEVA PROSPERINA,Nueva Prosperina,Nueva Prosperina,Urbanización Socio Viviendo
+1049,TARQUI,FORTIN,Nueva Prosperina,El Fortín,Cooperativa El Fortín de la Flor
+1050,TARQUI,FORTIN,Nueva Prosperina,El Fortín,El Fortín
+1051,TARQUI,FLOR DE BASTION,Nueva Prosperina,Paraíso de la Flor,Paraíso de la Flor
+1052,TARQUI,FLOR DE BASTION,Nueva Prosperina,Paraíso de la Flor,Urbanización Cumbres del Sol
+1053,TARQUI,FLOR DE BASTION,Nueva Prosperina,Paraíso de la Flor,Programa de Vivienda Municipio Club Rotario
+1054,TARQUI,FLOR DE BASTION,Nueva Prosperina,Paraíso de la Flor,Galatza
+1055,TARQUI,FLOR DE BASTION,Nueva Prosperina,Flor de Bastión,Parque Metropolitano
+1056,TARQUI,FLOR DE BASTION,Nueva Prosperina,Flor de Bastión,Flor de Bastión
+1057,TARQUI,SAN EDUARDO,,,Ciudadela Cimas
+1058,TARQUI,SAN EDUARDO,,,Urbanización Los Senderos
+1059,TARQUI,SAN EDUARDO,,,Semanario Guayaquil
+1060,TARQUI,SAN EDUARDO,,,Cerro San Eduardo
+1061,TARQUI,EL PARAISO,,,Ciudadela El Paraíso
+1062,TARQUI,BELLAVISTA,,,Bellavista
+1063,TARQUI,BELLAVISTA,,,Ciudadela Bellavista
+1064,TARQUI,BELLAVISTA,,,Vista Alegre
+1065,TARQUI,BELLAVISTA,,,San Pedro Lomas
+1066,TARQUI,BELLAVISTA,,,Sol Naciente
+1067,TARQUI,BELLAVISTA,,,Barrio San Pedro
+1068,TARQUI,SAN EDUARDO,,,Barrio San Eduardo
+1069,TARQUI,JARDINES DEL SALADO,,,Urbanización Jardines del Salado
+1070,TARQUI,SANTA CECILIA,,,Urbanización Los Girasoles
+1071,TARQUI,SAN EDUARDO,,,Urbanización Villa Nova
+1072,TARQUI,SAMANES,,Samanes,Samanes 7
+1073,OTHER,OTHER,,Samanes,Bosques del Samán
+1074,XIMENA,XIMENA,,Samanes,Cooperativa Unión Cívica
+1075,TARQUI,ROSALES,,Samanes,Rosales 2
+1076,TARQUI,ALBORADA,,Samanes,Urbanización Alcance
+1077,TARQUI,CONDOR,,Samanes,Los Shyris
+1078,TARQUI,CONDOR,,Samanes,El Cóndor
+1079,TARQUI,JUAN MONTALVO,,Juan Montalvo,Cooperativa Pájaro Azul
+1080,TARQUI,JUAN MONTALVO,,Juan Montalvo,Precooperativa 3 de Diciembre
+1081,TARQUI,JUAN MONTALVO,,Juan Montalvo,Cooperativa El Ceibol
+1082,TARQUI,JUAN MONTALVO,,Juan Montalvo,La Tierra es Nuestra
+1083,TARQUI,JUAN MONTALVO,,Juan Montalvo,Ficoa de Montalvo
+1084,TARQUI,JUAN MONTALVO,,Juan Montalvo,4 de marzo
+1085,TARQUI,JUAN MONTALVO,,Juan Montalvo,Cooperativa Montalvo
+1086,TARQUI,JUAN MONTALVO,,Juan Montalvo,Pueblo y su Reino
+1087,TARQUI,JUAN MONTALVO,,Juan Montalvo,Precooperativa Estrella de Belén
+1088,TARQUI,JUAN MONTALVO,,Juan Montalvo,Lotes Alegría con Servicio
+1089,TARQUI,JUAN MONTALVO,,Juan Montalvo,8 de mayo
+1090,TARQUI,PASCUALES,,Juan Montalvo,Precooperativa La Concordia
+1091,TARQUI,JUAN MONTALVO,,Juan Montalvo,Adesdac
+1092,TARQUI,QUINTO GUAYAS,,Juan Montalvo,Quinto Guayas
+1093,TARQUI,MAPASINGUE,,,General Quisquis
+1094,TARQUI,MAPASINGUE,,,Mapasingue
+1095,TARQUI,MAPASINGUE,,,24 de octubre
+1096,TARQUI,MAPASINGUE,,,El Prado
+1097,TARQUI,MAPASINGUE,,,Corazón La Patria
+1098,TARQUI,MAPASINGUE,,,El Cóndor
+1099,TARQUI,MAPASINGUE,,,Justicia Social y Libertad
+1100,TARQUI,MAPASINGUE,,,Cumbres de Mapasingue
+1101,TARQUI,MAPASINGUE,,,28 de febrero
+1102,TARQUI,MAPASINGUE,,,Buenos Aires
+1103,TARQUI,MAPASINGUE,,,Martha Bucaram de Roldós
+1104,TARQUI,MAPASINGUE,,,Precooperativa Hijos del Suelo
+1105,TARQUI,SAN FELIPE,,,Lomas de Prosperina
+1106,TARQUI,SAN FELIPE,,,Urbanización San Felipe
+1107,TARQUI,MIRADOR DEL NORTE,,,Urbanización Mirador del Norte
+1108,TARQUI,PROSPERINA,,,Santa Beatriz
+1109,TARQUI,MAPASINGUE,,,Santa Adriana
+1110,TARQUI,MAPASINGUE,,,1 de mayo
+1111,TARQUI,MAPASINGUE,,,Mirador de Mapasingue
+1112,TARQUI,PARQUE INDUSTRIAL,,,Urbanización Saint Gallen
+1113,TARQUI,PROSPERINA,,,Santa Eufrasia
+1114,TARQUI,PROSPERINA,,,Precooperativa 31 de Agosto
+1115,TARQUI,PROSPERINA,,,Prosperina
+1116,FEBRES CORDERO,FEBRES CORDERO,,,Los Ángeles
+1117,TARQUI,PROSPERINA,,,14 de agosto
+1118,TARQUI,PROSPERINA,,,Cooperativa 29 de Abril
+1119,TARQUI,PROSPERINA,,,Urbanización 12 de Octubre
+1120,TARQUI,PROSPERINA,,,Cooperativa 9 de Enero
+1121,TARQUI,MAPASINGUE,,,Colinas del Valle
+1122,TARQUI,MAPASINGUE,,,Mapasingue Oeste
+1123,TARQUI,MAPASINGUE,,,Urbaización BEV
+1124,TARQUI,INMACONSA,,,Parque Industrial El Sauce
+1125,TARQUI,INMACONSA,,,Lotización Expogramos
+1126,TARQUI,INMACONSA,,,Urbanización Industrial Inmaconsa
+1127,TARQUI,FLORIDA,,,Precooperativa Simón Bolívar
+1128,TARQUI,FLORIDA,,,Precooperativa Unidad Nacional
+1129,TARQUI,FLORIDA,,,Precooperativa Colinas de la Florida
+1130,TARQUI,FLORIDA,,,Hogar de Nazareth
+1131,TARQUI,NUEVA PROSPERINA,,,Urbanización La Florida
+1132,TARQUI,INMACONSA,,,Colinas del Sol
+1133,TARQUI,FLORIDA,,,Isaías
+1134,TARQUI,FLORIDA,,,Precooperativa Patria Nueva
+1135,TARQUI,FLORIDA,,,Bello Horizonte
+1136,TARQUI,PROSPERINA,,,Anexo Santa Cecilia
+1137,TARQUI,PROSPERINA,,,Precooperativa Gallegos Lara
+1138,TARQUI,MAPASINGUE,,,Cooperativa El Prado
+1139,TARQUI,PROSPERINA,,,Precooperativa María Eugenia Córdovez
+1140,TARQUI,PROSPERINA,,,Los Comanos
+1141,TARQUI,HUANCAVILCA NORTE,Pascuales,,CDLA.ESTRELLA  DEL MAR
+1142,TARQUI,HUANCAVILCA NORTE,Pascuales,,CIUDAD DEL NORTE
+1143,TARQUI,VERGELES,,,LOS VERGELES
+1144,TARQUI,VERGELES,,,CDLA.VALLE DE LOS GERANIOS
+1145,TARQUI,VERGELES,,,URB. LOS  GERANIOS
+1146,TARQUI,ORQUIDEAS,Pascuales,,ORQUIDEAS II   PRIMERA   ETAPA
+1147,TARQUI,ORQUIDEAS,Pascuales,,ORQUIDEAS  III  ETAPA
+1148,TARQUI,ORQUIDEAS,Pascuales,,ORQUIDEAS  OESTE
+1149,TARQUI,ORQUIDEAS,Pascuales,,JARDIN BOTANICO
+1150,TARQUI,MUCHO LOTE I,Pascuales,Mucho Lote,PROGRAMA PLAN MUCHO LOTE ETAPA VI
+1151,TARQUI,MUCHO LOTE I,Pascuales,Mucho Lote,PROGRAMA PLAN MUCHO LOTE ETAPA IV
+1152,TARQUI,MUCHO LOTE I,Pascuales,Mucho Lote,MUCHO LOTE
+1153,TARQUI,PASCUALES,Pascuales,Pascuales,PASCUALES
+1154,TARQUI,PASCUALES,Pascuales,Pascuales,VILCABAMBA
+1155,TARQUI,PASCUALES,Pascuales,Pascuales,UNION BELEN
+1156,TARQUI,PASCUALES,Pascuales,Pascuales,PIE DE LUCHA
+1157,TARQUI,PASCUALES,Pascuales,Pascuales,BARRIO LAS VEGAS
+1158,TARQUI,BASTION POPULAR,Pascuales,Bastión Popular I,BLOQUE  7A
+1161,TARQUI,BASTION POPULAR,Pascuales,Bastión Popular I,BLOQUE 10C
+1163,TARQUI,INMACONSA,Pascuales,Montebello,Colinas del Sol
+1164,TARQUI,MONTEBELLO,Pascuales,Montebello,Ciudadela Caracol
+1165,TARQUI,MONTEBELLO,Pascuales,Montebello,Montebello
+1166,TARQUI,BASTION POPULAR,Pascuales,Bastión Popular II,CERRO COLORADO
+1167,TARQUI,BASTION POPULAR,Pascuales,Bastión Popular II,BLOQUE 1A
+1168,TARQUI,BASTION POPULAR,Pascuales,Bastión Popular II,BLOQUE 1B
+1173,FEBRES CORDERO,FEBRES CORDERO,,,24 de agosto

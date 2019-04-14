@@ -1,0 +1,247 @@
+.hm-healthmap-container{
+    background-color: rgba(244, 245, 255, 0.60);
+    width: 100%;
+    height: auto;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    padding: 32px;
+    margin-top: 64px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin-bottom: 64px;
+}
+
+.hm-healthmap-main-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.hm-healthmap-map-info{
+    display: flex;
+    z-index: 2;
+    position: absolute;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+.hm-healthmap-map{
+    width: 100%;
+    height: calc(100% - 68px);
+}
+
+.hm-map{
+    width: 100%;
+    height: 100%;
+    border: 0px;
+}
+
+.hm-healthmap-map-info{
+    margin-top: 16px;
+    margin-left: 16px;
+}
+
+.hm-healthmap-selectors,
+.hm-healthmap-complement{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background-color: #fff;
+    margin: 8px 4px 8px 4px;
+}
+
+.hm-healthmap-selectors,
+.hm-healthmap-complement{
+    padding: 16px;
+}
+
+
+
+.hm-healthmap-image{
+    position: absolute;
+    height: 50px;
+    align-self: center;
+    width: 50px;
+    top: -10px;
+    right: -22px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    border: 1px solid #b5d6df;
+}
+
+.btn.btn-lg{
+    font-size: 12px !important;
+}
+
+.hm-healthmap-back{
+    display: flex;
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+
+.hm-healthmap-back a{
+    display: flex;
+    flex-direction: column;
+}
+
+#map{
+    z-index: 1;
+    height: calc(100% - 2px) !important;;
+}
+
+.hm-healthmap-back-a{
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+}
+
+.hm-select-date{
+    border-radius: 2px;
+    border: 1px solid #c5c5c5;
+    width: 110px;
+    background: #f6f6f6;
+    font-size: 1em;
+    height: 34px;
+    margin-left: 4px;
+}
+
+.hm-select-date-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.hm-filter-box{
+    margin-top: 16px;
+    display: flex;
+    justify-content: start;
+}
+
+.hm-healthmap-combo-select{
+    margin-left: 16px;
+}
+
+.custom-combobox {
+    position: relative;
+    display: inline-block;
+}
+.custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+}
+.custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+}
+
+.hm-fields-label{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.ui-widget{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: baseline;
+    justify-items: center;
+}
+
+.ui-widget-content{
+    width: 200px;
+}
+
+.ui-menu-item{
+    font-size: 12px;
+}
+
+.hm-action-button{
+    margin-top: 16px;
+    margin-bottom: 0px !important;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    max-width: 70%;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.legend {
+    line-height: 18px;
+    color: #555;
+    width: 240px;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+.hm-loader-dimmer{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    color: white;
+    align-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    z-index: 20;
+}
+
+.hm-loader{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.load-3 .line:nth-last-child(1) {animation: loadingC .6s .1s linear infinite;}
+.load-3 .line:nth-last-child(2) {animation: loadingC .6s .2s linear infinite;}
+.load-3 .line:nth-last-child(3) {animation: loadingC .6s .3s linear infinite;}
+
+@keyframes loadingC{
+    0 {transform: translate(0,0);}
+    50% {transform: translate(0,15px);}
+    100% {transform: translate(0,0);}
+}
+
+
+.line {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: white;
+}

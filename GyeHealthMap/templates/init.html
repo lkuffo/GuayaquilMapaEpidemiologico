@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+
+    {% include "header.html" %}
+
+    <body class="hm-index-body text-center">
+
+    <div class="cover-container d-flex h-100 mx-auto flex-column">
+
+        {% include "navbar.html" %}
+
+        <div class="hm-container">
+
+            <main role="main" class="inner cover"
+                  style="display: flex;
+                  flex-direction: column;
+                  align-items: center;">
+                <h1 class="hm-institutions-title">Mapas Epidemiológicos de Guayaquil</h1>
+                <div style="margin-top: 32px; width: 45%;display: flex; flex-direction: column; align-items: center;">
+                    <p>
+                        Una iniciativa sin fines de lucro de la Escuela Superior Politécnica del Litoral (ESPOL) y
+                        el Hospital León Becerra de Guayaquil. <br>
+                    </p>
+                    <p>
+                        <strong>Guayaquil Health Map</strong> es un proyecto que busca monitorear la incidencia de
+                        enfermedades a lo largo de los diferentes sectores de la ciudad de Guayaquil, haciendo uso
+                        de mapas geográficos divididos hasta una granularidad geográfica de barrios. <br><br>
+
+                        Con <strong>Guayaquil Health Map</strong> buscamos encontrar zonas en donde una condición de
+                        salud presenta un grado de aparición anómalo con respecto al resto de la ciudad. Esto, con el
+                        fin de poder encontrar correlaciones entre las <i>características geográficas</i> o factores
+                        externos (e.g. materiales de construcción) de un sector y la <i>incidencia de las enfermedades</i>.
+
+                    </p>
+
+                    <p>
+                        Nos encontramos actualmente reclutando instituciones de salud que poseean datos de pacientes de
+                        todo Guayaquil, para poder realizar un mapa epidemiológicos unificado de toda la ciudad.
+                    </p>
+                    <div style="display: flex; justify-content: space-around">
+                        <a href="/institutions">
+                            <button type="button" class="btn btn-primary btn-lg">DESCUBRELO!</button>
+                        </a>
+                        <a href="/contacto">
+                            <button type="button" class="btn btn-primary btn-lg">CONTÁCTANOS!</button>
+                        </a>
+                    </div>
+                    <h5 style="font-weight: 700; margin-top: 32px;"> PROYECTO EN DESARROLLO </h5>
+                </div>
+
+
+            </main>
+
+            <footer class="mastfoot mt-auto">
+                <div class="inner">
+                    <p></p>
+                </div>
+            </footer>
+        </div>
+
+
+
+    </div>
+
+    {% include "footer.html" %}
+
+    </body>
+</html>

@@ -1,0 +1,931 @@
+0,sectores,
+1,Ayacucho,
+2,Barrio Ciudad Nueva,
+3,Barrio del Astillero,
+4,Barrio Garay (Calle 9 de Octubre lado oeste),
+5,Barrio Jockey,
+6,Barrio la Concordia,
+7,Barrio La Sabana,
+8,Barrio Las 5 Esquinas,
+9,Barrio Las Peñas,
+10,Barrio Orellana,
+11,Barrio Q. Josefa,
+12,Barrio Q. Pareja,
+13,Barrio Q. Piedad,
+14,Bolívar,
+15,Cdla. Bolivariana,
+16,Ciudad Nueva,
+17,Coop. Progresista,
+18,Coop. Rumiñahui,
+19,Coop. Samuel Gómez,
+20,Cristo del Consuelo,
+21,El Conchero,
+22,Febres Cordero,
+23,García Moreno,
+24,Letamendi,
+25,Olmedo,
+26,Puerto Lisa,
+27,Rocafuerte,
+28,Sucre,
+29,Tarqui,
+30,Urdaneta,
+31,Ximena,
+32,Viviendas del Cerro del Carmen,
+33,Viviendas del Cerro Santa Ana,
+1,Barrio Centenario
+2,Barrio Cuba
+3,Barrio de las Americas - del Seguro
+4,Bloque Primavera
+5,Cdal. La Saiba
+6,Cdal. Los Olivos
+7,Cdla Caraguay
+8,Cdla del Maestro
+9,Cdla Jambeli
+10,Cdla Los Cipreses
+11,Cdla. 9 de Octubre
+12,Cdla. Amazonas I
+13,Cdla. Amazonas II
+14,Cdla. Coviem
+15,Cdla. del Periodista
+16,Cdla. Floresta I-Coop Los Laureles
+17,Cdla. Floresta II-Coop. Divino niño
+18,Cdla. Floresta II-Coop. Los Vergeles
+19,Cdla. Floresta II-Coop. Nueva idela
+20,Cdla. Floresta II-Coop. Piso y Techo
+21,Cdla. Floresta III-Guasmo Central
+22,Cdla. Fragata
+23,Cdla. Guangala
+24,Cdla. Guayasur
+25,Cdla. Huancavilca
+26,Cdla. Jambelí
+27,Cdla. La Chala
+28,Cdla. La Ronda
+29,Cdla. Las Acacias
+30,Cdla. Las Tejas
+31,Cdla. Las Terrazas
+32,Cdla. Los Almendros
+33,Cdla. Los delfines
+34,Cdla. Los Esteros I
+35,Cdla. Los Esteros II
+36,Cdla. Los Tulipanes
+37,Cdla. Luis Morejón
+38,Cdla. Morán Valverde
+39,Cdla. Naval Sur 25 de Julio
+40,Cdla. Pradera I
+41,Cdla. Pradera II
+42,Cdla. Pradera III
+43,Cdla. Urbasur
+44,Cdla. Valdivia
+45,Cdla. Villamil
+46,Ciudadela del IESS
+47,Condm. Los Jardines
+48,Coop 17 de Septiembre
+49,Coop 26 de Abril-Guasmo Sur
+50,Coop 9 de Octubre-Guasmo Osete
+51,Coop Américo Vespucio II-Isla Trinitaria
+52,Coop Autoridad Portuaria
+53,Coop Carlos Castro II-Guasmo Central
+54,Coop centro Civico-Guasmo Norte
+55,Coop El Paraíso-Isla Trinitaria
+56,Coop Fertisa-Guasmo Sur
+57,Coop Guayaquil Independiente
+58,Coop Los Angeles II-Isla Trinitaria
+59,Coop Proletarios con tierra-Guasmo Sur
+60,Coop Rosa Aguilera-Guasmo Sur
+61,Coop.  Estela Maris-Guasmo Sur
+62,Coop. 1 de Agosto-Guasmo Central
+63,Coop. 1 de Mayo Independiente-Guasmo Norte
+64,Coop. 1 de Septiembre
+65,Coop. 10 de Agosto-Guasmo Norte
+66,Coop. 11 de Septiembre-Isla Trinitaria
+67,Coop. 12 de Mayo II-Isla Trinitaria
+68,Coop. 12 de Mayo-Isla Trinitaria
+69,Coop. 12 de Septiembre-Guasmo Central
+70,Coop. 13 de Febrero
+71,Coop. 15 de Diciembre
+72,Coop. 15 de Septiembre-Guasmo central
+73,Coop. 16 de Mayo
+74,Coop. 18 de Agosto-Guasmo Sur
+75,Coop. 18 de Octubre-Guasmo Sur
+76,Coop. 18 de Septiembre
+77,Coop. 21 de Enero-Guasmo Norte
+78,Coop. 22 de Abril-Isla Trinitaria
+79,Coop. 24 de Mayo-Guasmo Norte
+80,Coop. 24 de Mayo-Las Malvinas
+81,Coop. 25 de Enero-Guasmo Norte
+82,Coop. 25 de Julio-Isla Trinitaria
+83,Coop. 27 de Junio
+84,Coop. 28 de Agosto
+85,Coop. 28 de Mayo
+86,Coop. 29 de Abril
+87,Coop. 3 de Mayo-Isla Trinitaria
+88,Coop. 3 de Noviembre
+89,Coop. 4 de Marzo
+90,Coop. 4 de Septiembre-Isla Trinitaria
+91,Coop. 5 de Agosto-Guasmo Norte
+92,Coop. 5 de Octubre-Guasmo Sur
+93,Coop. 6 de Noviembre-Isla Trinitaria
+94,Coop. 7 de Octubre
+95,Coop. 7 Lagos-Guasmo Central
+96,Coop. 7 Laguitos-Guasmo Central
+97,Coop. 7 Septiembre-Guasmo central
+98,Coop. 8 de Agosto
+99,Coop. 8 de Marzo
+100,Coop. 8 de Septiembre
+101,Coop. 9 de Abril
+102,Coop. 9 de Agosto-Guasmo central
+103,Coop. 9 de Julio-Fertisa
+104,Coop. Abdalá Bucaram
+105,Coop. Abdalá de los Pobres
+106,Coop. Ahora le toca al Pueblo
+107,Coop. Alameda-Malvinas
+108,Coop. Amazonas-Gusmo Sur
+109,Coop. Américo Vespucio I-Isla Trinitaria
+110,Coop. Andres Quiñones I-Isla Trinitaria
+111,Coop. Andres Quiñonez II-Isla Trinitaria
+112,Coop. Ángel Duarte-Isla Trinitaria
+113,Coop. Antartida-Isla Trinitaria
+114,Coop. Antonio Neumane-Isla trinitaria
+115,Coop. Assad Bucaram I - Acacias
+116,Coop. Assad Bucaram II - Acacias
+117,Coop. Atahualpa-Guasmo Norte
+118,Coop. Bananeros Bloque A
+119,Coop. Barrio Chino-Guasmo Sur
+120,Coop. Barrio Nigeria-Isla Trinitaria
+121,Coop. Batalla de Tarqui-Guasmo Sur
+122,Coop. Brisas del Estero
+123,Coop. Brisas del Guayas-Guasmo sur
+124,Coop. Brisas del Salado-Guasmo sur
+125,Coop. Camino al Sol-Isla trinitaria
+126,Coop. Carlos Castro I-Guasmo Central
+127,Coop. Carlos Zevallos-Guasmo Norte
+128,Coop. Casitas del Guasmo (Empresa Vopak)
+129,Coop. Casitas del Guasmo-Guasmo Norte
+130,Coop. Causa Proletaria-Guasmo Sur
+131,Coop. Centinela del Guasmo-Guasmo central
+132,Coop. Cesar A. Sandino-Guasmo Sur
+133,Coop. Che Guevara-Isla Trinitaria
+134,Coop. Ciudad de Venecia
+135,Coop. Comand. Duro-Malvinas
+136,Coop. Comité 4 de Julio
+137,Coop. Comité de base-Guasmo Central
+138,Coop. Cooperativa Pueblo Unido-Guasmo central
+139,Coop. Costa Marfil-Isla Trinitaria
+140,Coop. Cristal-Guasmo Sur
+141,Coop. Cristina Ponguillo-Guasmo Oeste
+142,Coop. de Vivienda de la Armada
+143,Coop. Derecho de los Pobres-Guasmo Sur
+144,Coop. Desarrollo Comunal
+145,Coop. Desarrollo Comunal II
+146,Coop. Diamante-Isla Trinitaria
+147,Coop. Dignidad Popular-Malvinas
+148,Coop. Dios para todos-Guasmo Norte
+149,Coop. Disston Preciado-Guasmo sur
+150,Coop. El Condor-Guasmo Sur
+151,Coop. El Diamante-Isla Trinitaria
+152,Coop. El Edén -Isla Trinitaria
+153,Coop. El Pantanal
+154,Coop. Elloy Alfraro - Acacias III
+155,Coop. Eloy Alfaro-Guasmo sur
+156,Coop. Enrique Gordillo-Isla Trinitaria
+157,Coop. Esmeraldas Chiquita-Isla Trinitaria
+158,Coop. Esmeraldas Libre-Isla trinitaria
+159,Coop. Esmeraldas Vieja
+160,Coop. Esteros Populares-Coop. Jacobo Bucaran
+161,Coop. Esteros Populares-Coop. Los Lirios
+162,Coop. Esteros Populares-Coorp. La Fragata
+163,Coop. Eugenio Espejo
+164,Coop. Flor del Guasmo
+165,Coop. Florida I-Guasmo Sur
+166,Coop. Florida II
+167,Coop. Francisca Guillen
+168,Coop. Fundación de Guayaquil-Guasmo central
+169,Coop. García Moreno-Malvinas
+170,Coop. Gran Chaparral-Isla Trinitaria
+171,Coop. Guasmo libre
+172,Coop. Guasmo Norte
+173,Coop. Guasmo Sur
+174,Coop. Guayas y Quil II-Guasmo Sur
+175,Coop. Guevara Moreno I y II-Fertisa
+176,Coop. Hogar de los Pobres
+177,Coop. Independencia II-Isla Trinitaria
+178,Coop. Independiente-Guasmo Norte
+179,Coop. Isla del Valle-Isla Trinitaria
+180,Coop. Islas Galápagos-Guasmo Norte
+181,Coop. Jacobito Bucarám-Guasmo Sur
+182,Coop. Jacobo Bucaram
+183,Coop. Jaime Galarza-Guasmo Central
+184,Coop. Jaime Nebot-Fertisa
+185,Coop. Jaime Roldós -Malvinas
+186,Coop. Jaime Roldos-Guasmo Oeste
+187,Coop. Jaime Toral-Isla Trinitaria
+188,Coop. Juan Péndola
+189,Coop. Juan X. Marcos-Guasmo Norte
+190,Coop. Julio Potes-Guasmo sur
+191,Coop. Justicia Social
+192,Coop. Justicia y Libertad-Guasmo central
+193,Coop. La Fragata Populares
+194,Coop. La Fuerza de los Pobres-Isla Trinitaria
+195,Coop. La Paz-Guasmo Sur
+196,Coop. Las Brisas-Isla Trinitaria
+197,Coop. Las Malvinas-Isla Trinitaria
+198,Coop. Las Mercedes-Isla Trinitaria
+199,Coop. Las Palmas-Guasmo Sur
+200,Coop. Libertad I
+201,Coop. Libertad II
+202,Coop. Libertad y Conciencia
+203,Coop. Lorenzo Tous-Guasmo sur
+204,Coop. Los 5 Magnificos-Isla Trinitaria
+205,Coop. Los Angeles-Guasmo Norte
+206,Coop. Los Ángeles-Isla Trinitaria
+207,Coop. Los Cidros-Guasmo central
+208,Coop. Los Jardines-Guasmo sur
+209,Coop. Los Jazmines-Guasmo Norte
+210,Coop. Los Mangles-Guasmo sur
+211,Coop. Los Palestinos
+212,Coop. Los ultimos sereamos los primeros-Guasmo central
+213,Coop. Los Vergeles-Guasmo Sur
+214,Coop. Lucha Obrera-Guasmo
+215,Coop. Lucha Popular-Guasmo Central
+216,Coop. Luchadores del Guasmo
+217,Coop. Luchar es Vencer-Guasmo Norte
+218,Coop. Luchar y Vencer-Isla Trinitaria
+219,Coop. Luis Chiriboga Parra-Guasmo Sur
+220,Coop. Luis Vargas Torres
+221,Coop. Luz de América-Isla Trinitaria
+222,Coop. Luz del Guayas-Guasmo Norte
+223,Coop. Madrigal-Isla Trinitaria
+224,Coop. Mariuxi Febres Cordero-Guasmo Sur
+225,Coop. Martha Bucaram-Guasmo Sur
+226,Coop. Melida Toral-Isla Trinitaria
+227,Coop. Melida Zalamea-Malvinas
+228,Coop. Miami Beach
+229,Coop. Miramar-Guasmo Sur
+230,Coop. Molina de Frank-Guasmo Sur
+231,Coop. Mons. Leonidas Proaño-Isla Trinitaria
+232,Coop. Naciones Unidas-Isla Trinitaria
+233,Coop. Necesidad de un Techo-Guasmo central
+234,Coop. Nelson Mandela III-Isla Trinitaria
+235,Coop. Nelson Mandela I-Isla Trinitaria
+236,Coop. Nueva Ciudad-Isla Trinitaria
+237,Coop. Nueva Granada-Guasmo Norte
+238,Coop. Nueva Guayaquil-Isla Trinitaria
+239,Coop. Nueva Ideal-Guasmo central
+240,Coop. Nueva Patria-Isla Trinitaria
+241,Coop. Nueva Venecia-Guasmo Central
+242,Coop. Nuevo Ecuador-Isla Trinitaria
+243,Coop. Nuevo Rumbo-Isla Trinitaria
+244,Coop. Nuevos Horizontes-Guasmo Norte
+245,Coop. Pablo Neruda-Guasmo Sur
+246,Coop. Paco Oñate II-Fertisa
+247,Coop. Paquisha-Guasmo central
+248,Coop. Patria Nueva-Isla Trinitaria
+249,Coop. Patria y Libertad-Guasmo Norte
+250,Coop. Pedregal - esclusas-Guasmo Cenral
+251,Coop. Pedro Fronda-Isla Trinitaria
+252,Coop. Perla del Sur-Guasmo central
+253,Coop. Plan Techo-Isla Trinitaria
+254,Coop. Pobladores sin Tierra-Guasmo Sur
+255,Coop. Polo Sur-Isla Trinitaria
+256,Coop. Popeye-Isla Trinitaria
+257,Coop. Proletarios sin Tierra-Guasmo Sur
+258,Coop. Puerto Lizita-Guasmo Sur
+259,Coop. Puntilla del Centro Miramar-Guasmo Sur
+260,Coop. Reina del Quinche 1-Guasmo Sur
+261,Coop. Reina del Quinche-Guasmo Sur
+262,Coop. Riberas del Guayas-Guasmo Norte
+263,Coop. Río Guayas-Guasmo Norte
+264,Coop. Riop Guayas-Guasmo Norte
+265,Coop. Rumiñahui II-Isla Trinitaria
+266,Coop. San Cristóbal-Isla Trinitaria
+267,Coop. San Felipo-Guasmo Sur
+268,Coop. Santa Martha I-Guasmo Sur
+269,Coop. Santa Martha II-Guasmo Sur
+270,Coop. Santa Monica-Guasmo Sur
+271,Coop. Santiago de Guayaquil I y II-Isla Trinitaria
+272,Coop. Santiago Roldós-Guasmo Oeste
+273,Coop. Segundo Ramos-Guasmo Sur
+274,Coop. Siempre en La Lucha-Isla Trinitaria
+275,Coop. Standart Fruit-Guasmo Sur
+276,Coop. Techo Para Todos-Isla Trinitaria
+277,Coop. Todos Unidos al Fin Venceremos-Isla Trinitaria
+278,Coop. Un Techo Para los Pobres-Isla Trinitaria
+279,Coop. Unidos para Vencer-Guasmo Central
+280,Coop. Unión Cívica-Guasmo Norte
+281,Coop. Union de Bananeros Bloque 2-Guasmo Central
+282,Coop. Union de Bananeros Bloque 3-Guasmo Central
+283,Coop. Union de Bananeros Bloque 4-Guasmo Central
+284,Coop. Union de Bananeros Bloque 5-Guasmo Central
+285,Coop. Union de Bananeros Bloque 6-Guasmo Central
+286,Coop. Unión y Progreso-Guasmo Sur
+287,Coop. Valladolid-Isla Trinitaria
+288,Coop. Valle Independiente-Guasmo sur
+289,Coop. Velasco Ibarra-Guasmo Sur
+290,Coop. Vencer o Morir II-Isla Trinitaria
+291,Coop. Viernes Santo-Isla Trinitaria
+292,Coop. Virgen de Monserrate-Guasmo Central
+293,Coop. Zalatiel de Toral-Isla Trinitaria
+294,Coop.1 de Marzo-Guasmo Norte
+295,Coop.25 de Septiembre-Guasmo Sur
+296,Prcoop. 12 de Octubre
+297,Prcoop. Santiaguito Roldós I
+298,Prcoop. Santiaguito Roldós II
+299,Urb. Centinela
+300,Urb. Los Claveles
+301,Urb. Sopeña
+302,Coop. Cisne 2
+1,Barrio 2 de Noviembre
+2,Barrio Bello Horizonte (Coop. Francisco Jácome)
+3,Barrio Las Peñas
+4,Barrio Los Tamarindos
+5,Barrio Quisquís
+6,Campus Prosperina (Espol)
+7,Cdla Alamos Norte
+8,Cdla Carlos Perez
+9,Cdla Colinas de la Florida
+10,Cdla Colinas del Hipodromo
+11,Cdla Estrella de Mar
+12,Cdla la Garzota I etapa
+13,Cdla la Garzota II etapa
+14,Cdla la Garzota III etapa
+15,Cdla Miraflores
+16,Cdla Puerta de los Ceibos
+17,Cdla.  Kennedy Norte
+18,Cdla.  Kennedy Norte   10ma etapa
+19,Cdla.  Kennedy Norte   2da
+20,Cdla.  Kennedy Norte   3ra
+21,Cdla.  Kennedy Norte   4ta
+22,Cdla.  Kennedy Norte   6ta
+23,Cdla.  Kennedy Norte   7ma
+24,Cdla.  Kennedy Norte   8va
+25,Cdla.  Kennedy Norte   9na
+26,Cdla.  Kennedy Norte  5ta
+27,Cdla. Adace Cdla. Luis Vernaza
+28,Cdla. ADESDAC
+29,Cdla. Alameda del Rio
+30,Cdla. Alborada 1° etapa
+31,Cdla. Alborada 10° etapa
+32,Cdla. Alborada 11° etapa
+33,Cdla. Alborada 12° etapa
+34,Cdla. Alborada 13° etapa
+35,Cdla. Alborada 2° etapa
+36,Cdla. Alborada 3° etapa
+37,Cdla. Alborada 4° etapa
+38,Cdla. Alborada 5° etapa
+39,Cdla. Alborada 6° etapa
+40,Cdla. Alborada 7° etapa
+41,Cdla. Alborada 8° etapa
+42,Cdla. Alborada 9° etapa
+43,Cdla. Bella Vista
+44,Cdla. Bolivariana
+45,Cdla. Caracol
+46,Cdla. Ceibos Alto
+47,Cdla. Ceibos Norte
+48,Cdla. Celoplast
+49,Cdla. Colinas al Sol
+50,Cdla. Colinas de los Ceibos (Zona A)
+51,Cdla. El Paraiso
+52,Cdla. Ferroviaria
+53,Cdla. Ferroviaria Urb. Santa Maria de las Lomas
+54,Cdla. Girasoles
+55,Cdla. Guayacanes
+56,Cdla. J. Tanca Marengo
+57,Cdla. La Atarazana
+58,Cdla. La FAE
+59,Cdla. La Herradura
+60,Cdla. La Roca
+61,Cdla. Las Cumbres
+62,Cdla. Las Orquideas
+63,Cdla. Lomas de Urdesa
+64,Cdla. Los Cedros
+65,Cdla. Los Ceibos
+66,Cdla. Los Geranios
+67,Cdla. Los Helechos
+68,Cdla. Los Olivos
+69,Cdla. Los Parques
+70,Cdla. Martha de Roldos
+71,Cdla. Modelo
+72,Cdla. Monte Bello
+73,Cdla. Murallas del Norte
+74,Cdla. Nueva Kennedy
+75,Cdla. Paraiso del Rio
+76,Cdla. Portón de Las Lomas
+77,Cdla. Puerta de Hierro
+78,Cdla. Urdesa Central
+79,Cdla. Urdesa Norte
+80,Cdla. Veranda
+81,Cdla. Vernaza Norte
+82,Cerro del Carmen
+83,Cerro Sta. Ana
+84,Ciudad Santiago
+85,Colinas del maestro
+86,Conjunto Residencial El Manantial
+87,Conjunto Residencial Villa Sol
+88,Coop Ignacio de Loyola
+89,Coop Juan Montalvo
+90,Coop Pajaro Azul
+91,Coop Valle de la Flor
+92,Coop. 11 de Febrero
+93,Coop. 14 de Febrero
+94,Coop. 16 de Septiembre
+95,Coop. 21 de Noviembre
+96,Coop. 24 de Mayo
+97,Coop. 29 de Abril
+98,Coop. 3 de Diciembre
+99,Coop. 31 de Agosto
+100,Coop. 4 de Mayo
+101,Coop. 7 de Diciembre
+102,Coop. 9 de Enero
+103,Coop. Antonio Bermúdez
+104,Coop. Bastion Popular Bloque 1
+105,Coop. Bastion Popular Bloque 10
+106,Coop. Bastion Popular Bloque 2
+107,Coop. Bastion Popular Bloque 3
+108,Coop. Bastion Popular Bloque 4
+109,Coop. Bastion Popular Bloque 5
+110,Coop. Bastion Popular Bloque 6
+111,Coop. Bastion Popular Bloque 7
+112,Coop. Bastion Popular Bloque 8
+113,Coop. Bastion Popular Bloque 9
+114,Coop. Batallon del Suburbio
+115,Coop. Brisas de Mapasingue
+116,Coop. Buenos Aires
+117,Coop. Cerro Jordán
+118,Coop. Cerro san Eduardo
+119,Coop. Ciudad de Dios
+120,Coop. Colinas de la Florida
+121,Coop. Colinas de Mapasingue
+122,Coop. Colinas del Hipódromo
+123,Coop. Colinas del sol
+124,Coop. Colinas del Valle
+125,Coop. de Vivienda Guayaquil
+126,Coop. El Ceibol
+127,Coop. El Cóndor
+128,Coop. El Fortín Bloque  1
+129,Coop. El Fortín Bloque  10
+130,Coop. El Fortín Bloque  11
+131,Coop. El Fortín Bloque  2
+132,Coop. El Fortín Bloque  3
+133,Coop. El Fortín Bloque  4
+134,Coop. El Fortín Bloque  5
+135,Coop. El Fortín Bloque  6
+136,Coop. El Fortín Bloque  7
+137,Coop. El Fortín Bloque  8
+138,Coop. El Fortín Bloque  9
+139,Coop. El Madrigal
+140,Coop. El Paracaidista
+141,Coop. El Prado
+142,Coop. Eloy Alfaro
+143,Coop. Estrella de Belen
+144,Coop. Ficoa de Montalvo
+145,Coop. Flor del Bastion Bq. 1
+146,Coop. Flor del Bastion Bq. 10
+147,Coop. Flor del Bastion Bq. 11
+148,Coop. Flor del Bastion Bq. 12
+149,Coop. Flor del Bastion Bq. 13
+150,Coop. Flor del Bastion Bq. 14
+151,Coop. Flor del Bastion Bq. 15
+152,Coop. Flor del Bastion Bq. 16
+153,Coop. Flor del Bastion Bq. 17
+154,Coop. Flor del Bastion Bq. 18
+155,Coop. Flor del Bastion Bq. 19
+156,Coop. Flor del Bastion Bq. 2
+157,Coop. Flor del Bastion Bq. 20
+158,Coop. Flor del Bastion Bq. 21
+159,Coop. Flor del Bastion Bq. 22
+160,Coop. Flor del Bastion Bq. 3
+161,Coop. Flor del Bastion Bq. 4
+162,Coop. Flor del Bastion Bq. 5
+163,Coop. Flor del Bastion Bq. 6
+164,Coop. Flor del Bastion Bq. 7
+165,Coop. Flor del Bastion Bq. 8
+166,Coop. Flor del Bastion Bq. 9
+167,Coop. Flor del Fortin
+168,Coop. Fuerza del cambio
+169,Coop. Germán Zambrano
+170,Coop. Guayaquil
+171,Coop. Guayas y Quil 1
+172,Coop. Guayas y Quil 2
+173,Coop. Guerreros del Fortin
+174,Coop. Hogar de Nazareth
+175,Coop. Horizontes del Fortin
+176,Coop. Horizontes del Guerrero
+177,Coop. Jaime Pólit
+178,Coop. Jaime Roldós Aguilera
+179,Coop. Jardines del salado
+180,Coop. Juan Bautista
+181,Coop. Juan Montalvo Cdla La Alegria
+182,Coop. Juan Montalvo Coop. Julio Cartajena
+183,Coop. Juan Montalvo Coop. La Concordia
+184,Coop. Juan Pablo II
+185,Coop. La Esperanza Mpasingue
+186,Coop. La Prosperina
+187,Coop. La Tierra es nuestra
+188,Coop. Las Garzas
+189,Coop. Limonal
+190,Coop. Lincoln Salcedo Flor del Fortin
+191,Coop. Lomas de la Prosperina
+192,Coop. Los Ángeles
+193,Coop. Los Manguitos
+194,Coop. Los Rosales 1
+195,Coop. Los Rosales 2
+196,Coop. Los Rosales 3
+197,Coop. Los Rosales 4
+198,Coop. Los Senderos
+199,"Coop. Los Senderos,"
+200,Coop. Los vergeles 1° Etapa
+201,Coop. Los vergeles 2° Etapa
+202,Coop. Los vergeles 3° Etapa
+203,Coop. Luz de America Mapasingue
+204,Coop. Manuela Cañizares
+205,Coop. Mapasingue Este
+206,Coop. Mapasingue Oeste
+207,Coop. María Eugenia Cordovez
+208,Coop. Mayaycu
+209,Coop. Monte Sinai
+210,Coop. Monte Sinai Coop. 31 de Octubre
+211,"Coop. Nueva Generación,  "
+212,Coop. Nueva Granada
+213,Coop. Nueva Luz
+214,Coop. Nueva Prosperina
+215,Coop. Pancho Jacome
+216,Coop. Paraiso de la Flor
+217,Coop. Paraíso de la Flor Bloque  1
+218,Coop. Paraíso de la Flor Bloque  3
+219,Coop. Paraíso de la Flor Bloque  4
+220,Coop. Paraíso de la Flor Bloque  7
+221,Coop. Paraíso de la Flor Bloque  8
+222,Coop. Paraíso de la Flor Bloque  9
+223,Coop. Pastor Vera
+224,Coop. Paz y Amor
+225,"Coop. Paz y Amor,  "
+226,Coop. Pie de Lucha - Pascuales
+227,Coop. Primero de Mayo
+228,Coop. Prosperina Este Coop. Jaime Roldos Aguilera
+229,Coop. Pueblo y su Reino
+230,Coop. Renacer
+231,Coop. Reynaldo Quiñonez
+232,Coop. Reynaldo Quiñonez Coop. San Ignacio
+233,Coop. San Francisco
+234,Coop. San Francisco 1
+235,Coop. San Francisco 2
+236,Coop. San Francisco I
+237,Coop. San Francisco II
+238,Coop. San Nicolás
+239,Coop. Sergio Toral 1
+240,Coop. Sergio Toral 2
+241,Coop. Sta. Eufracia
+242,Coop. Trinidad de Dios
+243,Coop. Unidad por la Paz
+244,Coop. Unidos por la Paz
+245,Coop. Unidos Venceremos
+246,"Coop. Unión de Propietarios, "
+247,Coop. Union Paz y Progreso
+248,Coop. Urbanor
+249,Coop. Urdenor 1
+250,Coop. Urdenor II
+251,Coop. Valerio Estacio
+252,Coop. Valle de los Geranios
+253,Coop. Velasco
+254,Coop. Virgen del Cisne
+255,Coop. Vista Alegre
+256,Coop. Vista Bella
+257,Coop. Vivienda Empleados I.E.T.E.L.
+258,Coop. Voluntad de Dios
+259,Cooperativa San Francisco
+260,Cooperativa Sol Naciente
+261,Cooperativa Viva la Gaviota
+262,Coopp. Vista Bella
+263,Cop. Francisco de Orellana
+264,Cordillera del Cóndor
+265,Flor de Bastion  Coop. 28 de Abril
+266,Flor de Bastion  Coop. Batalla de Jambeli
+267,Flor de Bastion  Coop. Herencia de Jehova
+268,Flor de Bastion  Coop. La ladrillera
+269,Flor de Bastion  Coop. Pastores de Fatima
+270,Flor de Bastion  Coop. Templo del saber
+271,Flor de Bastion  Coop. Tiwinza Amazonico
+272,Flor de Bastion  Coop. Valle de la Flor
+273,L. Salcedo
+274,Lot. Adriana Sector A y B
+275,Lot. Aso. Comercial
+276,Lot. San Carlos
+277,Lot. Sta Cecilia
+278,Lotes con servicios Alegria
+279,Lotes San Francisco
+280,Lotización Atlanta
+281,"Lotización Lomas de Prosperina,"
+282,Monte Sinai Coop. Las Marias
+283,Parroquia Pascuales  Barrio las Vegas
+284,Parroquia Pascuales  Coop. 5 de Diciembre
+285,Parroquia Pascuales  Coop. Assad Bucaram
+286,Parroquia Pascuales  Coop. Los Manguitos
+287,Parroquia Pascuales  Coop. San Nicolas
+288,Parroquia Pascuales  Coop. Union de Belen
+289,Parroquia Pascuales  Coop. Vilcabamba
+290,Pascuales
+291,Precoop. 12 de Octubre
+292,Precoop. 14 de Agosto
+293,Precoop. 2 de Octubre
+294,Precoop. 24 de Octubre
+295,precoop. 27 de Enero
+296,Precoop. 29 de Abril
+297,Precoop. 4 de Diciembre
+298,Precoop. 6 de Marzo
+299,Precoop. Amazonas Libre
+300,Precoop. Bello Horizonte A.
+301,Precoop. Bello Horizonte B.
+302,Precoop. Colina de la Prosperina
+303,Precoop. Colinas de La Florida
+304,Precoop. Colinas de la Martha
+305,Precoop. Colinas de Mapasingue 3
+306,Precoop. Corazón de La Patria
+307,Precoop. Cumbres de Mapasingue
+308,precoop. El Cepro
+309,Precoop. El Cerro
+310,Precoop. El Cóndor
+311,Precoop. El Recreo
+312,Precoop. En Pie de Lucha
+313,Precoop. Francisco Jácome I
+314,Precoop. Gallegos Lara
+315,Precoop. Hijos del Suelo
+316,Precoop. Jaime Roldós
+317,Precoop. Justicia y Libertad
+318,Precoop. La Esperanza
+319,"Precoop. La Guardianía, "
+320,Precoop. Los Comandos Prosperina
+321,Precoop. Manuela Cañizares
+322,precoop. Mirador de Mapasingue
+323,Precoop. Nueva Luz
+324,Precoop. Pancho Jácome
+325,Precoop. Patria Nueva
+326,Precoop. San Francisco
+327,Precoop. San Nicolás
+328,Precoop. Simon Bolivar
+329,Precoop. Unidad Nacional
+330,Precoop. Unidad Nacional II
+331,Precoop. Unidos Somos Más
+332,Precoop. Unión Paz y Progreso
+333,Precooperativa 26 de Febrero
+334,Precooperativa Colinas de Mapasingue
+335,Precop. 3 de Diciembre
+336,Sector San eduardo Coop. 25 de Julio
+337,Terrenos Particulares (Prosperina)
+338,Urb Florida Norte
+339,Urb los Samanes Etapa 1
+340,Urb los Samanes Etapa 2
+341,Urb los Samanes Etapa 3
+342,Urb los Samanes Etapa 4
+343,Urb los Samanes Etapa 5
+344,Urb los Samanes Etapa 6
+345,Urb los Samanes Etapa 7
+346,Urb Terranostra
+347,Urb Villa Club. Etapa Aura
+348,Urb Villa Club. Etapa Doral
+349,Urb Villa Club. Etapa Estelar
+350,Urb Villa Club. Etapa Floral
+351,Urb Villa Club. Etapa Hermes
+352,Urb Villa Club. Etapa Jupiter
+353,Urb. Santorini
+354,Urb. Acuarelan del Rio
+355,Urb. Anexo A Colinas de los Ceibos
+356,Urb. Bella Visión
+357,Urb. Beta Mercdes Molina
+358,Urb. Bosques del Salado
+359,Urb. Brisas del Mar
+360,Urb. Brisas del Norte
+361,Urb. Brisas del Rio
+362,"Urb. Buena Esperanza,  "
+363,Urb. Castilla
+364,"Urb. Central, "
+365,Urb. Ciudad Colón
+366,Urb. Ciudad del Aire
+367,"Urb. Ciudad del Aire, "
+368,Urb. Ciudad del Norte
+369,Urb. Ciudad del Rio
+370,Urb. Ciudad Olimpo
+371,Urb. Ciudad Victoria
+372,Urb. Colinas al Norte
+373,Urb. Colinas al Sol
+374,Urb. Colinas de los Ceibos
+375,Urb. Colinas de Urdenor
+376,Urb. Cumbres del Sol
+377,Urb. Eco City
+378,"Urb. El Caracol, "
+379,Urb. El Prado
+380,Urb. Jaime Pólit
+381,Urb. Jardines del Rio
+382,Urb. La Cima
+383,"Urb. La Cima,"
+384,Urb. La Florida
+385,Urb. La Joya. Etapa Ambar
+386,Urb. La Joya. Etapa Brillante
+387,Urb. La Joya. Etapa Gema
+388,Urb. La Joya. Etapa Murano
+389,Urb. La Joya. Etapa Opalo
+390,Urb. La Joya. Etapa Platino
+391,Urb. La Joya. Etapa Zafiro
+392,Urb. Lago Capeira
+393,Urb. Lomas de Urdesa
+394,Urb. Los Álamos
+395,Urb. Los Jardines
+396,Urb. Sauces 1
+397,Urb. Sauces 2
+398,Urb. Sauces 3
+399,Urb. Sauces 4
+400,Urb. Sauces 5
+401,Urb. Sauces 6
+402,Urb. Sauces 7
+403,Urb. Sauces 8
+404,Urb. Sauces 9
+405,Urb. Mapasingue Este Cdla los Cerros
+406,Urb. Mapasingue Este Coop El Condor
+407,Urb. Mapasingue Este Coop. 1 de Mayo
+408,Urb. Mapasingue Este Coop. 24 de Octubre
+409,Urb. Mapasingue Este Coop. 26 de Febrero
+410,Urb. Mapasingue Este Coop. 27 de Enero
+411,Urb. Mapasingue Este Coop. 9 de Enero
+412,Urb. Mapasingue Este Coop. Las Rocas
+413,Urb. Mapasingue Este Cop. Luz de America
+414,Urb. Metropolis 1
+415,Urb. Metropolis 2
+416,Urb. Metrópolis II
+417,Urb. Mi Lote II
+418,Urb. Milan
+419,Urb. Mirador del Norte
+420,Urb. Montebello
+421,Urb. Olimpus
+422,Urb. Olimpus
+423,Urb. Pedro Menendez
+424,Urb. Piso Techo
+425,Urb. Polaris
+426,Urb. Puerta del sol
+427,Urb. Puerto Azul
+428,Urb. Saint Gallen
+429,Urb. San Felipe
+430,Urb. Socio Vivienda 1
+431,Urb. Socio Vivienda 2
+432,Urb. Socio Vivienda 3
+433,Urb. Sta Cecilia
+434,Urb. Sta. Beatriz
+435,Urb. Veranda
+436,Urb. Victoria del Rio
+437,Urb. Villa Bonita
+438,Urb.Mucho Lote Etapa 1
+439,Urb.Mucho Lote Etapa 2 Urb. Villa España Etapa Barcelona
+440,Urb.Mucho Lote Etapa 3 Urb. Villa España Etapa Malaga
+441,Urb.Mucho Lote Etapa 4 Urb. Villa España Etapa Valencia
+442,Urb.Mucho Lote Etapa 5 Urb. Villa España Etapa Madrid
+443,Urb.Mucho Lote Etapa 6 Urb. Villa España Etapa Toledo
+444,Urb.Mucho Lote Etapa 7
+1,Floresta
+2,Pradera
+3,Saiba
+4,La joya
+5,Esteros
+6,Recreo
+7,Cerro santana
+8,Cerro Santa ana
+9,Coop mariuxi
+10,Coop Santiaguito
+11,Coop Santiago
+12,Coop Union de bananeros
+13,Coop u bananera
+14,Coop Esmeraldas Chiquito
+15,Coop Esmeralda Chiquito
+16,Coop u de bananeros
+17,bastion popular
+18,coop proletario
+19,Sopea
+20,fertiza
+21,coop carlos castro
+22,hogar los pobres
+23,fuerza de los pobres
+24,derecho de los pobres
+25,sta monica
+26,Union de bananero
+27,Cdla la alegria
+28,Vergeles
+29,Tulipanes
+30,via a la costa
+31,via daule
+32,san eduardo
+33,Esmeralda chiquita
+34,Esmeralda libre
+35,Sergio toral
+36,Villa del rey
+37,Libertad
+38,Cdla maldonado
+39,Acasias
+40,Sandino
+41,7 de septiembre
+42,Balerio estacio
+43,Primavera 1
+44,Primavera 2
+45,Primavera ii
+46,Primavera i
+47,Primavera
+48,rosendo aviles
+49,monte sinay
+50,popular
+51, jacobo b.
+52, francisco jacome
+53,stguito roldos
+54,stgo roldos
+55,santiguito de roldos
+56,carlos guevara
+57,sgto roldos
+58,s roldos
+59,siete lag
+60,los lidios
+61,hogar para pobres
+62,guevara
+63,cipreces
+64,villa club
+65,el maestro
+66,nueva ecuador
+67,seremos los primeros
+68,proletaria sin tierra
+69,las palmeras
+70,9 de octubre
+71,estrella de octubre
+72,12 de octubre
+73,31 de octubre
+74,sta. monica
+75,u. bananeros
+76,union bananeros
+77,duran
+78,leonidas plaza
+79,9 de oct
+80,la perla
+81,perla sur
+82,posorja
+83,5 de junio
+84,aurora
+85,salitre
+86,ecua city
+87,garcia goyena
+88,lizardo garzia
+89,vencer o morir
+90,lorenzo de garaicoa
+91,union bananeros
+92,9 octubre
+93,12 octubre
+94,granada
+95,san jacinto
+96,calicuchima
+97,fco jacome
+98,san martin
+99,antonio neumabe
+100,estrella
+101,paraiso
+102,coop fortin
+103,comandante
+104,merida salamea
+105,trinitaria
+106,estrella del mar
+107,valle alto
+108,santgto roldos
+109,sguito roldos
+110,santgto roldos
+111,stgto roldos
+112,santiagito  roldos
+113,camilo destruje
+114,nelson mandela
+115,samborondon
+116,iess
+117,ietel
+118,julio cartagena
+119,7 de julio
+120,1ero de marzo
+121,oroma gonzalez
+122,adace
+123,villas del rey
+124,santa cecilia
+125,venecia
+126,cdla ietel
+127,nuevo horizonte
+128,nuevo ideal
+129,monica
+130,monseor
+131,puertas del sol
+132,orama gonzalez
+133,playas
+134,santa martha
+135,martha roldos
+136,nueva frontera
+137,nueva esperanza
+138,nueva kennedy
+139,nueva grana
+140,covien
+141,matices
+142,daule
+143,claveles
+144,flor del bastion
+145,bastion chiquito
+146,flor bastion
+147,bastion pop
+148,metropolis
+149,canton
+150,rcto
+151,recinto
