@@ -40,7 +40,7 @@ def healthMap(institution_id):
                            institution=c.findInstitution(institution_id),
                            capitulos=c.capitulos,
                            agrupacion=c.agrupaciones,
-                           cie10=c.getCIE10forInstitution(institution_id))
+                           cie10=c.all)
 
 @app.route('/obtainMeasures', methods=["POST"])
 def obtainMeasures():
@@ -51,7 +51,6 @@ def obtainMeasures():
     capitulo = request.form.get("capitulo")
     agrupacion = request.form.get("agrupacion")
     cie10 = request.form.get("cie10")
-
     cleanedCie10 = None
     cleanedAgrupacion = None
     cleanedCapitulo = None
@@ -61,7 +60,6 @@ def obtainMeasures():
         cleanedAgrupacion = agrupacion.split(":")[0]
     if capitulo != "" and capitulo:
         cleanedCapitulo = capitulo.split(":")[0]
-
     MG = MapGenerator(app, institution, cleanedCapitulo, cleanedAgrupacion, cleanedCie10, startDate, endDate, edad)
     geojson, filterUsed = MG.generateMap()
 
@@ -80,4 +78,4 @@ def obtainMeasures():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, threaded=True)
+    app.run(debug=False, threaded=True)

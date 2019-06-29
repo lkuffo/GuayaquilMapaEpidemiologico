@@ -22,6 +22,7 @@ $(document).ready(function(){
           defaultDate: "+1w",
           changeMonth: true,
           changeYear: true,
+          dateFormat: 'mm/dd/yy',
           numberOfMonths: 1
         })
         .on( "change", function() {
@@ -31,6 +32,7 @@ $(document).ready(function(){
         defaultDate: "+1w",
         changeMonth: true,
         changeYear: true,
+        dateFormat: 'mm/dd/yy',
         numberOfMonths: 1
       })
       .on( "change", function() {
@@ -56,16 +58,16 @@ $(document).ready(function(){
         this.wrapper = $( "<span>" )
           .addClass( "custom-combobox" )
           .insertAfter( this.element );
-
         this.element.hide();
-        this._createAutocomplete();
+        this._createAutocomplete(this.element.attr('id'));
         this._createShowAllButton();
       },
 
-      _createAutocomplete: function() {
+      _createAutocomplete: function(id) {
         var selected = this.element.children( ":selected" ),
           value = selected.val() ? selected.text() : "";
-
+        console.log("valor", value);
+        console.log("selected", selected);
         this.input = $( "<input class='hm-healthmap-combo-select'>" )
           .appendTo( this.wrapper )
           .val( value )
@@ -73,7 +75,7 @@ $(document).ready(function(){
           .addClass( "custom-combobox-input ui-widget ui-widget-content ui-state-default ui-corner-left" )
           .autocomplete({
             delay: 0,
-            minLength: 0,
+            minLength: (id === "combobox-cie10") ? 3 : 1,
             source: $.proxy( this, "_source" )
           })
           .tooltip({
@@ -215,7 +217,7 @@ $(document).ready(function(){
         }, function(data){
             var gyeData = data.gyeData;
             var mapTitle = data.mapTitle;
-            var instantMapType = (selectedCie10 === "" && selectedAgrupacion === "" && selectedCapitulo === "") ? "absolute" : 'normalized'
+            var instantMapType = (selectedCie10 === "" && selectedAgrupacion === "" && selectedCapitulo === "") ? "absolute" : 'normalized';
             map.remove();
             initMap("% casos relativos", mapTitle, gyeData, instantMapType);
             $(".hm-loader-dimmer").hide();

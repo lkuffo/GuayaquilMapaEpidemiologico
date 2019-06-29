@@ -46,10 +46,13 @@
                             <label class="hm-fields-label" for="from">Edad</label>
                             <select id="combobox-edad">
                                 <option value="">Todas las edades</option>
-                                <option value="0-1">0 - 2 meses</option>
-                                <option value="0-2">0 - 2 años</option>
-                                <option value="2-18">2 - 18 años</option>
-                                <option value="18-100">18+ años</option>
+                                <option value="0-1">0 - 1 año</option>
+                                <option value="0-2">1 - 2 años</option>
+                                <option value="2-10">2 - 10 años</option>
+                                <option value="10-18">10 - 18 años</option>
+                                <option value="18-25">18 - 25 años</option>
+                                <option value="25-40">25 - 40 años</option>
+                                <option value="40-100">40 - 100 años</option>
                             </select>
                         </div>
                     </div>
@@ -77,11 +80,11 @@
                     </div>
                     <div class="hm-filter-box">
                         <div class="ui-widget">
-                            <label class="hm-fields-label" for="from">CIE10</label>
+                            <label class="hm-fields-label" for="from">Enfermedad</label>
                             <select id="combobox-cie10">
                                 <option value=""></option>
-                                {%  for elem in cie10 %}
-                                    <option value="{{ elem }}">{{ elem }}</option>
+                                {%  for k, elem in cie10.items() %}
+                                    <option value="{{ elem["id"] }}">{{ elem["id"] + "-" + elem["nombre"] }}</option>
                                 {% endfor %}
                             </select>
                         </div>
@@ -101,6 +104,9 @@
     </div>
 
     {% include "footer.html" %}
+
+    <script src="/static/js/mapCreator.js"></script>
+    <script src="/static/js/healthmap.js"></script>
 
     </body>
 </html>

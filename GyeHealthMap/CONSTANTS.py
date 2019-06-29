@@ -11,14 +11,14 @@ class CONSTANTS:
             {
                 "id": "all",
                 "name": u"TODOS LOS HOSPITALES",
-                "pacientes": 15891,
+                "pacientes": 71505,
                 "tipo": "N/A",
                 "link": "#"
             },
             {
                 "id": "hlb",
                 "name": u"HOSPITAL LEON BECERRA",
-                "pacientes": 15891,
+                "pacientes": 71505,
                 "tipo": "Infantil",
                 "link": "https://www.bspi.org/hospital_leon_becerra.html"
             }
@@ -29,6 +29,7 @@ class CONSTANTS:
         if load_cie10:
             self.capitulos = self.getCapitulos()
             self.agrupaciones = self.getAgrupaciones()
+            self.all = self.getAllCie10()
 
     def getCapitulos(self):
         capitulos = {}
@@ -44,6 +45,25 @@ class CONSTANTS:
                 "fin": info[3]
             }
         return capitulos
+
+    def getAllCie10(self):
+        cie10 = {}
+        f = open(self.static + "/cie10/cie_all.csv", "r")
+        f.readline()
+        for line in f:
+            info = line.strip().decode('utf-8').split(",")
+            if len(info) > 1:
+                id = info[0]
+                id = id.replace('"', '')
+                if id[0] == '|':
+                    id = id.replace('|', '')
+                name = info[1]
+                cie10[info[0]] = {
+                    "id": id,
+                    "nombre": name
+                }
+        f.close()
+        return cie10
 
     def getAgrupaciones(self):
         agrupaciones = {}
